@@ -4,7 +4,7 @@ A searchable, digitized version of the 1989 FJ62 Owner's Manual with full OCR te
 
 ## 🔍 View the Documentation
 
-**Live Site**: [https://mikejshaffer.github.io/fj62-manual](https://mikejshaffer.github.io/fj62-manual)
+**Live Site**: [https://banddude.github.io/fj62-manual](https://banddude.github.io/fj62-manual)
 
 ## Features
 
