@@ -11,51 +11,53 @@ markdown_dir = Path("../1989_FJ62_Owners_Manual_pages")
 images_dir = Path("../1989_FJ62_Owners_Manual_images")
 docs_dir = Path("docs")
 
-# PDF page offset (manual page 1 = PDF page 7)
-PAGE_OFFSET = 6
+# PDF page offsets
+# Parts 1-2: manual page 1 = PDF page 7 (offset of 6)
+# Parts 3+: There appear to be blank divider pages, so offset changes to 2
+OFFSET_PART1_2 = 6
+OFFSET_PART3_PLUS = 2
 
-# Table of Contents mapping (section name, manual start page, manual end page)
-# These will be converted to PDF pages by adding PAGE_OFFSET
+# Table of Contents mapping (section name, manual start page, manual end page, offset)
 toc = [
-    # Part 1
-    ("part1/1-1_overview.md", "1-1. Overview of Instruments and Controls", 1, 4),
-    ("part1/1-2_key_and_doors.md", "1-2. Key and Doors", 5, 12),
-    ("part1/1-3_seats_belts.md", "1-3. Seats, Seat Belts, Steering Wheel and Mirrors", 13, 24),
-    ("part1/1-4_lights_wipers.md", "1-4. Lights, Wipers and Defogger", 25, 30),
-    ("part1/1-5_gauges_meters.md", "1-5. Gauges, Meters and Warning Lights", 31, 36),
-    ("part1/1-6_ignition_transmission.md", "1-6. Ignition Switch, Transmission and Parking Brake", 37, 48),
-    ("part1/1-7_audio_climate.md", "1-7. Car Audio and Environmental Control System", 49, 86),
-    ("part1/1-8_other_equipment.md", "1-8. Other Equipment", 87, 90),
+    # Part 1 (uses offset 6)
+    ("part1/1-1_overview.md", "1-1. Overview of Instruments and Controls", 1, 4, OFFSET_PART1_2),
+    ("part1/1-2_key_and_doors.md", "1-2. Key and Doors", 5, 12, OFFSET_PART1_2),
+    ("part1/1-3_seats_belts.md", "1-3. Seats, Seat Belts, Steering Wheel and Mirrors", 13, 24, OFFSET_PART1_2),
+    ("part1/1-4_lights_wipers.md", "1-4. Lights, Wipers and Defogger", 25, 30, OFFSET_PART1_2),
+    ("part1/1-5_gauges_meters.md", "1-5. Gauges, Meters and Warning Lights", 31, 36, OFFSET_PART1_2),
+    ("part1/1-6_ignition_transmission.md", "1-6. Ignition Switch, Transmission and Parking Brake", 37, 48, OFFSET_PART1_2),
+    ("part1/1-7_audio_climate.md", "1-7. Car Audio and Environmental Control System", 49, 86, OFFSET_PART1_2),
+    ("part1/1-8_other_equipment.md", "1-8. Other Equipment", 87, 90, OFFSET_PART1_2),
 
-    # Part 2
-    ("part2/index.md", "Part 2: Information Before Driving Your Toyota", 91, 100),
+    # Part 2 (uses offset 6)
+    ("part2/index.md", "Part 2: Information Before Driving Your Toyota", 91, 100, OFFSET_PART1_2),
 
-    # Part 3
-    ("part3/index.md", "Part 3: Starting and Driving", 101, 112),
+    # Part 3+ (uses offset 2 due to blank divider pages)
+    ("part3/index.md", "Part 3: Starting and Driving", 101, 112, OFFSET_PART3_PLUS),
 
     # Part 4
-    ("part4/index.md", "Part 4: In Case of an Emergency", 113, 124),
+    ("part4/index.md", "Part 4: In Case of an Emergency", 113, 124, OFFSET_PART3_PLUS),
 
     # Part 5
-    ("part5/index.md", "Part 5: Corrosion Prevention and Appearance Care", 125, 128),
+    ("part5/index.md", "Part 5: Corrosion Prevention and Appearance Care", 125, 128, OFFSET_PART3_PLUS),
 
     # Part 6
-    ("part6/index.md", "Part 6: Vehicle Maintenance and Care", 129, 142),
+    ("part6/index.md", "Part 6: Vehicle Maintenance and Care", 129, 142, OFFSET_PART3_PLUS),
 
     # Part 7
-    ("part7/7-1_introduction.md", "7-1. Introduction", 143, 148),
-    ("part7/7-2_engine_chassis.md", "7-2. Engine and Chassis", 149, 170),
-    ("part7/7-3_electrical.md", "7-3. Electrical Components", 171, 182),
+    ("part7/7-1_introduction.md", "7-1. Introduction", 143, 148, OFFSET_PART3_PLUS),
+    ("part7/7-2_engine_chassis.md", "7-2. Engine and Chassis", 149, 170, OFFSET_PART3_PLUS),
+    ("part7/7-3_electrical.md", "7-3. Electrical Components", 171, 182, OFFSET_PART3_PLUS),
 
     # Part 8
-    ("part8/index.md", "Part 8: Specifications", 183, 188),
+    ("part8/index.md", "Part 8: Specifications", 183, 188, OFFSET_PART3_PLUS),
 
     # Part 9
-    ("part9/index.md", "Part 9: Index", 189, 205),
+    ("part9/index.md", "Part 9: Index", 189, 205, OFFSET_PART3_PLUS),
 ]
 
 # Create directory structure
-for section_file, _, _, _ in toc:
+for section_file, _, _, _, _ in toc:
     section_path = docs_dir / section_file
     section_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -66,10 +68,10 @@ docs_images_dir.mkdir(parents=True, exist_ok=True)
 print(f"Generating structured documentation...")
 
 # Generate sections
-for section_file, section_title, manual_start, manual_end in toc:
+for section_file, section_title, manual_start, manual_end, page_offset in toc:
     # Convert manual pages to PDF pages
-    pdf_start = manual_start + PAGE_OFFSET
-    pdf_end = manual_end + PAGE_OFFSET
+    pdf_start = manual_start + page_offset
+    pdf_end = manual_end + page_offset
 
     print(f"Processing: {section_title}")
     print(f"  Manual pages {manual_start}-{manual_end} (PDF pages {pdf_start}-{pdf_end})")
@@ -78,7 +80,7 @@ for section_file, section_title, manual_start, manual_end in toc:
     content_parts = [f"# {section_title}\n\n"]
 
     for manual_page in range(manual_start, manual_end + 1):
-        pdf_page = manual_page + PAGE_OFFSET
+        pdf_page = manual_page + page_offset
         md_file = markdown_dir / f"page_{pdf_page}.md"
         image_file = images_dir / f"page_{pdf_page}.png"
 

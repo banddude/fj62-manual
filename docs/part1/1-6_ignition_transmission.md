@@ -229,7 +229,87 @@ With the selector lever in "L", the transmission is engaged in the first gear an
 
 ## Page 42
 
-*Page content not yet processed*
+# NOTICE:
+Be careful not to overrev the engine. Watch the tachometer to keep engine rpm from going into the red zone. The maximum allowable speed (approximate) for each range is given below for your reference:
+
+- "3" . . . . . 81 mph (130 km/h)  
+- "2" . . . . . 53 mph (85 km/h)  
+- "L" . . . . . 25 mph (40 km/h)
+
+---
+
+## (d) Backing up
+![diagram]
+
+- BRAKE PEDAL  
+- SELECTOR LEVER
+
+Inset:
+- P  
+- R  
+- N  
+- D  
+- 3  
+- 2  
+- L
+
+"'R' (Reverse) range"
+
+1. Bring the vehicle to a complete stop.  
+2. With the brake pedal held down with your foot, shift the selector lever to the "R" range.
+
+**NOTICE:**  
+Never shift into reverse while the vehicle is in motion.
+
+(20041105)
+
+---
+
+## (e) Parking
+![diagram]
+
+- PARKING BRAKE LEVER  
+- BRAKE PEDAL  
+- SELECTOR LEVER
+
+Inset:
+- P  
+- R  
+- N  
+- D  
+- 3  
+- 2  
+- L
+
+"'P' (Park) range"
+
+1. Bring the vehicle to a complete stop.  
+2. Pull the parking brake lever up fully to securely apply the parking brake.  
+3. With the brake pedal held down with your foot, shift the selector lever to the "P" range.
+
+**CAUTION:**  
+While the vehicle is in motion, never attempt to move the selector lever into "P" under any circumstances. Serious mechanical damage and loss of vehicle control may result.
+
+(20041106)
+
+---
+
+## (f) Good driving practice
+
+- If the transmission is repeatedly upshifted and downshifted between the third and overdrive gears when climbing a gentle slope, it is suggested that the "3" range be used. Be sure to return to the "D" range immediately afterward.
+- When towing a trailer, in order to maintain engine braking efficiency and electrical charging performance, do not use the "D" range.
+
+**CAUTION:**  
+Always keep your foot on the brake pedal while stopped with the engine running. This prevents the vehicle from creeping.
+
+**NOTICE:**  
+Do not hold the vehicle on an upgrade with the accelerator pedal. It can cause the transmission to overheat. Always use the brake pedal or parking brake.
+
+---
+
+42
+
+cruisercult.com
 
 ![Manual Page 42](../images/page_48.png)
 
@@ -237,7 +317,57 @@ With the selector lever in "L", the transmission is engaged in the first gear an
 
 ## Page 43
 
-*Page content not yet processed*
+# (e) Parking
+
+![parking diagram](image)
+
+1. Bring the vehicle to a complete stop.  
+2. Pull the parking brake lever up fully to securely apply the parking brake.  
+3. With the brake pedal held down with your foot, shift the selector lever to the "P" range.
+
+CAUTION:
+While the vehicle is in motion, never attempt to move the selector lever into "P" under any circumstances. Serious mechanical damage and loss of vehicle control may result.
+
+---
+
+# (f) Good driving practice
+
+- If the transmission is repeatedly upshifted and downshifted between the third and overdrive gears when climbing a gentle slope, it is suggested that the "3" range be used. Be sure to return to the "D" range immediately afterward.
+- When towing a trailer, in order to maintain engine braking efficiency and electrical charging performance, do not use the "D" range.
+
+CAUTION:
+Always keep your foot on the brake pedal while stopped with the engine running. This prevents the vehicle from creeping.
+
+NOTICE:
+Do not hold the vehicle on an upgrade with the accelerator pedal. It can cause the transmission to overheat. Always use the brake pedal or parking brake.
+
+---
+
+# Four-wheel drive system — (a) Front drive control lever and "H4" button
+
+(illustration: H2 N L4 knob; H4 button with ON / OFF)
+
+The function of each of the front drive control lever and "H4" button positions is described below.
+
+The "4WD" indicator light shows when the front drive control lever is in the "L4" position or when the "H4" button is pushed in.
+
+- "H2": High range, two-wheel drive  
+  Use this for normal driving on dry hard-surfaced roads. This position gives greater economy, quietest ride and least wear. The "H4" button must be off.
+
+- "H4": High range, four-wheel drive  
+  Use this for normal driving on wet, icy or snow-covered roads. This position provides greater traction than two-wheel drive.
+
+- "N": Neutral  
+  No power is delivered to the wheels. Use this position only for operating a winch or other equipment. The vehicle must be stopped.
+
+- "L4": Low range, four-wheel drive  
+  Use this for maximum power and traction. Use "L4" for climbing or descending steep hills, off-road driving, and hard pulling in sand, mud or deep snow.
+
+See "(c) Shifting procedure" for further instructions.
+
+cruisercult.com
+
+43
 
 ![Manual Page 43](../images/page_49.png)
 
@@ -245,7 +375,55 @@ With the selector lever in "L", the transmission is engaged in the first gear an
 
 ## Page 44
 
-*Page content not yet processed*
+# (b) Free-wheeling hubs
+
+![diagram]
+
+To engage the free-wheeling hubs, turn the hubs to "LOCK". To disengage, turn the hubs to "FREE".
+
+Make sure that the triangle mark on the hub aligns with the other one at the side you wish to set.
+
+Setting the free-wheeling hubs in "FREE" allows you to disengage the front axle and driveshaft so that they are not revolving. This reduces noise and wear when the vehicle is in two-wheel drive.
+
+You should drive with the hubs in "LOCK" for at least 10 miles (16 km) each month. This will assure that the front drive components are lubricated.
+
+---
+
+# (c) Shifting procedure
+
+## SHIFTING BETWEEN "H2" AND "H4"
+
+To shift from "H2" to "H4", push the "H4" button in to the ON position with the front drive control lever in the "H2" position and both the free-wheeling hubs engaged. Then release the accelerator pedal momentarily.
+
+The vehicle may be moving at any speed.
+
+**CAUTION:**
+- Never move the front drive control lever if wheels are slipping. Stop the slipping or spinning before shifting.
+- Never drive with only one hub engaged.
+
+To shift from "H4" to "H2", push the "H4" button out to the OFF position. Disengage both the free-wheeling hubs for continued "H2" use.
+
+The vehicle may be moving at any speed.
+
+## SHIFTING BETWEEN "H2" AND "L4"
+
+To shift from "H2" to "L4", stop the vehicle, shift the transmission into "P" or "N" and move the front drive control lever with both the free-wheeling hubs engaged. If you cannot shift, drive the vehicle slightly in either direction and try again.
+
+To shift from "L4" to "H2", stop the vehicle, shift the transmission into "P" or "N" and move the front drive control lever. If you cannot shift, drive the vehicle slightly in either direction and try again.
+
+Disengage both the free-wheeling hubs for continued "H2" use.
+
+---
+
+# Differential locks
+
+![diagram]
+
+The purpose of the differential locks is for use only when the vehicle has not enough traction to move itself.
+
+The differential is designed to transmit power from the engine to the right and left wheels equally. If one wheel is off the ground or on a slippery surface, the power is used to spin the wheel, causing insufficient traction on the other wheel.
+
+Locking the differential allows the right and left wheels to rotate as a unit, causing the vehicle to extract itself.
 
 ![Manual Page 44](../images/page_50.png)
 
@@ -253,7 +431,50 @@ With the selector lever in "L", the transmission is engaged in the first gear an
 
 ## Page 45
 
-*Page content not yet processed*
+# SHIFTING BETWEEN "H2" AND "L4"
+
+To shift from "H2" to "L4", stop the vehicle, shift the transmission into "P" or "N" and move the front drive control lever with both the free-wheeling hubs engaged. If you cannot shift, drive the vehicle slightly in either direction and try again.
+
+To shift from "L4" to "H2", stop the vehicle, shift the transmission into "P" or "N" and move the front drive control lever. If you cannot shift, drive the vehicle slightly in either direction and try again.
+
+Disengage both the free-wheeling hubs for continued "H2" use.
+
+---
+
+# Differential locks
+
+![vehicle sketch]()
+
+20150108
+
+The purpose of the differential locks is for use only when the vehicle has not enough traction to move itself.
+
+The differential is designed to transmit power from the engine to the right and left wheels equally. If one wheel is off the ground or on a slippery surface, the power is used to spin the wheel, causing insufficient traction on the other wheel.
+
+Locking the differential allows the right and left wheels to rotate as a unit, causing the vehicle to extract itself.
+
+## Operating precautions
+
+- If the vehicle does become stuck, first engage the four-wheel drive, low range (L4) to free it. If this has no effect, lock the rear, and if necessary, also the front differential.
+- The order of operation is, rear-front lock and front-rear unlock.
+- Be sure to unlock the differentials immediately after using the differential locks.
+- Before normal driving, make sure that the differential control levers are pushed down and the indicator lights remain off.
+
+### CAUTION:
+
+- Before locking the differentials, be sure that the wheels have stopped spinning. If not, the vehicle may move in an unexpected direction when the differential locks are engaged, resulting in an accident. This may also lead to possible damage to differential lock component parts.
+- Do not use the differential locks on dry, hard roads. Large steering effort and careful cornering control will be required. Especially use of the front differential lock in addition to the rear will result in extremely difficult steering control.
+- Do not drive on snow or ice with the differentials locked. Cornering may be difficult. If one wheel contacts a non-slippery surface during acceleration or engine braking, the vehicle may spin suddenly.
+
+---
+
+NOTICE:
+
+Do not drive over 5 mph (8 km/h) when the differentials are locked.
+
+cruisercult.com
+
+45
 
 ![Manual Page 45](../images/page_51.png)
 
@@ -261,7 +482,60 @@ With the selector lever in "L", the transmission is engaged in the first gear an
 
 ## Page 46
 
-*Page content not yet processed*
+# INDICATOR LIGHTS
+![DIFF LOCK]  
+
+---
+
+## To lock the rear differential, pull up on the rear differential control lever. To lock the front differential in addition to the rear differential, pull up on the front differential control lever.
+
+Locking the front differential is possible only when the rear differential control lever is pulled up. Before locking the front differential, make sure that the free-wheeling hubs are engaged (in the "LOCK" position).
+
+For easy locking, pull up on the differential control levers and gently depress the accelerator pedal.
+
+20150105
+
+---
+
+# INDICATOR LIGHTS
+
+The indicator lights tell when the differential locks are engaged. Note that each of the differentials is not still locked as long as the indicator light remains off.
+
+20150106
+
+---
+
+## 1. UNLOCK  
+## 2. UNLOCK
+
+To unlock the differentials, push down on the front differential control lever and then the rear differential control lever.
+
+For easy unlocking, slightly turn the steering wheel in either direction while the vehicle is in motion.
+
+When each of the differential locks is disengaged, the indicator light will go out.
+
+20150107
+
+---
+
+# Cases in which the differential locks can be used effectively
+
+These are some of the cases where the differential locks are effective. In every case, first apply the brakes to stop the wheel and engage the four-wheel drive, low range (L4). If this does not help, use the differential locks.
+
+- Wheel off the road  
+  After pulling up on the control lever, depress the accelerator pedal gently. Shortly after the wheel has revolved, the differential will lock, causing both wheels to move as a unit to quickly get the wheel back on the road.
+
+- Driving over rocky roads  
+  Keep both hands and especially your thumbs on the outside of the rim.  
+  CAUTION: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
+  Do not grip the steering wheel spokes. The return motion can be so sudden and harsh that your hands may be injured.  
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+---
+
+46
+
+cruisercult.com
 
 ![Manual Page 46](../images/page_52.png)
 
@@ -269,7 +543,49 @@ With the selector lever in "L", the transmission is engaged in the first gear an
 
 ## Page 47
 
-*Page content not yet processed*
+# To unlock the differentials
+1. UNLOCK  
+2. UNLOCK
+
+To unlock the differentials, push down on the front differential control lever and then the rear differential control lever.
+
+For easy unlocking, slightly turn the steering wheel in either direction while the vehicle is in motion.
+
+When each of the differential locks is disengaged, the indicator light will go out.
+
+---
+
+# Cases in which the differential locks can be used effectively
+These are some of the cases where the differential locks are effective. In every case, first apply the brakes to stop the wheel and engage the four-wheel drive, low range (L4). If this does not help, use the differential locks.
+
+- Wheel off the road  
+  After pulling up on the control lever, depress the accelerator pedal gently. Shortly after the wheel has revolved, the differential will lock, causing both wheels to move as a unit to quickly get the wheel back on the road.
+
+- Driving over rocky roads  
+  Keep both hands and especially your thumbs on the outside of the rim.
+
+  **CAUTION:**  
+  Do not grip the steering wheel spokes. The return motion can be so sudden and harsh that your hands may be injured.
+
+- Freeing from snow (wheels on one side on a slippery surface)  
+  After engaging the locks up, accelerate slowly out of the snow. Pressing down on the accelerator pedal too hard and too quickly can cause loss of vehicle control. When the entire vehicle is back on the road, do not forget to disengage the differential locks.
+
+---
+
+# Parking brake
+[diagram: UNLOCK → SET ← RELE ASE]
+
+To set: Pull up the lever.  
+To release: Pull up slightly, press the thumb button, and lower.
+
+Before leaving your vehicle, firmly apply the parking brake. For better holding power, first depress the brake pedal and hold it while setting the parking brake.
+
+**CAUTION:**  
+Before driving, be sure that the parking brake is fully released and the parking brake reminder light is off.
+
+cruisercult.com
+
+47
 
 ![Manual Page 47](../images/page_53.png)
 
@@ -277,7 +593,13 @@ With the selector lever in "L", the transmission is engaged in the first gear an
 
 ## Page 48
 
-*Page content not yet processed*
+# Part 1
+
+Chapter
+
+48
+
+cruisercult.com
 
 ![Manual Page 48](../images/page_54.png)
 
