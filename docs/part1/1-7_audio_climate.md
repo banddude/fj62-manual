@@ -737,7 +737,40 @@ cruisercult.com
 
 ## Page 65
 
-*Page content not yet processed*
+# CASSETTE TAPE PLAYER
+
+- "FF (TUNE)" BUTTON (For fast forwarding)
+- "REW (TUNE)" BUTTON (For rewinding)
+- "EJECT" BUTTON (For stop and ejectment)
+- "TAPE PLAYER DISPLAY
+- "PWR.VOL" KNOB (For turning player on and adjusting volume)
+- "TAPE" BUTTON (For turning player on and selecting TAPE mode)
+- AM
+- FM
+- TAPE
+- "V TUNE" REW
+- TUNE ∧ FF
+- 1  2  3
+- 4  5  6
+- "PROG" BUTTON (For side change)
+- DOLBY NR BUTTON
+- "BASS PULL TREB" KNOB (For bass and treble control)
+- "BAL PULL FADE" KNOB (For right and left, front and rear sound balance)
+
+cruisercult.com
+
+10640L25
+65
+
+---
+
+# RADIO DISPLAY (left page)
+
+- RADIO DISPLAY
+- "BAL PULL FADE" KNOB (For right and left, front and rear sound balance)
+- "BASS PULL TREB" KNOB (For bass and treble control)
+
+10640L24
 
 ![Manual Page 65](../images/page_71.png)
 
@@ -745,7 +778,55 @@ cruisercult.com
 
 ## Page 66
 
-*Page content not yet processed*
+# (a) Listening to the radio
+
+The functions of this system are described below in the groups of operations.
+
+For radio operation, see:  
+(a) Listening to the radio  
+(b) Selecting a station  
+(c) Presetting a station  
+(d) Adjusting the tone  
+(e) Adjusting the sound balance
+
+For cassette tape player operation, see:  
+(f) Listening to the cassette tape  
+(g) Selecting a program  
+(d) Adjusting the tone  
+(e) Adjusting the sound balance
+
+---
+
+Diagram labels:  
+- "PWR.VOL" KNOB  
+- ADJUST VOLUME  
+- "AM" OR "FM"  
+- "AM" BUTTON  
+- "FM" BUTTON  
+- DISPLAY  
+- "ST"  
+- 88.9 (displayed frequency)  
+- RADIO OFF
+
+1. Push the "AM" or "FM" button to turn the radio on and select either an AM or FM broadcast.  
+"AM" or "FM" will appear on the display.  
+The radio can also be turned on by pushing the "PWR.VOL" knob if the radio had been on before the system was turned off.
+
+2. Turn the "PWR.VOL" knob to adjust the volume.
+
+3. Tune in the desired station. (See "(b) Selecting a station" and "(c) Presetting a station".)
+
+The radio will change automatically to stereo reception when an FM stereo broadcast is being received. At the same time, "ST" will appear on the display. When the receiving signal gets weak, the channel separation will automatically be reduced for a lowest noise. If the signal becomes extremely weak, the radio will switch over to monaural reception.
+
+4. Adjust the tone and sound balance. (See "(d) Adjusting the tone" and "(e) Adjusting the sound balance".)
+
+5. To turn the radio off, push the "PWR.VOL" knob.
+
+---
+
+66
+
+cruisercult.com
 
 ![Manual Page 66](../images/page_72.png)
 
@@ -753,7 +834,39 @@ cruisercult.com
 
 ## Page 67
 
-*Page content not yet processed*
+- "AM" OR "FM"
+- "ST"
+- DISPLAY
+
+The radio will change automatically to stereo reception when an FM stereo broadcast is being received. At the same time, "ST" will appear on the display. When the receiving signal gets weak, the channel separation will automatically be reduced for a lowest noise. If the signal becomes extremely weak, the radio will switch over to monaural reception.
+
+4. Adjust the tone and sound balance. (See "(d) Adjusting the tone" and "(e) Adjusting the sound balance".)
+
+"RADIO OFF"
+"PWR.VOL" KNOB
+
+5. To turn the radio off, push the "PWR.VOL" knob.
+
+(b) Selecting a station
+
+F M
+ST
+88.9
+FREQUENCY
+
+Tune in the desired station using one of the following methods. The frequency will appear on the display.
+
+DISPLAY
+BUTTON NUMBER
+STATION SELECTOR BUTTONS
+
+Preset tuning: Use for tuning-in to a desired preset station.
+
+Push the station selector button to which the desired station has been preset. The radio will tune in to the station and the button number will appear on the display. (See "(c) Presetting a station".)
+
+cruisercult.com
+
+67
 
 ![Manual Page 67](../images/page_73.png)
 
@@ -761,7 +874,62 @@ cruisercult.com
 
 ## Page 68
 
-*Page content not yet processed*
+# "DX"
+- "TUNE (REW)" BUTTON
+- "TUNE (FF)" BUTTON
+- DISPLAY
+
+---
+
+# Seek tuning: Use for automatic station search and stop.
+
+Push the "TUNE (FF)" or "TUNE (REW)" button and hold it until a beep is heard. The radio will begin seeking up or down a station of the nearest frequency and stop on reception. Each time you push the button, stations are seeked out one after another.
+
+If the radio cannot seek out any stations in one pass because of too weak signals, the radio will begin seeking again with sensitivity boosted for searching out weak stations. At this time, "DX" will appear on the display.
+
+---
+
+# Manual tuning
+
+- "TUNE (FF)" BUTTON
+- "TUNE (REW)" BUTTON
+
+Push the "TUNE (FF)" or "TUNE (REW)" button within 0.5 second. Each time you push the button, the radio will step up or down to another frequency where stations could exist.
+
+---
+
+# (c) Presetting a station
+
+- DISPLAY
+- BUTTON NUMBER
+- STATION SELECTOR BUTTONS
+
+1. Tune in the desired station. (See "(b) Selecting a station".)  
+2. Push one of the station selector buttons and hold it until a beep is heard. This sets the station to the button and the button number will appear on the display.
+
+Each button can store one AM station and one FM station. To change the preset station to a different one, follow the same procedure.
+
+The preset station will be cancelled out when the power source is severed (battery disconnected, burnt fuse, etc.).
+
+---
+
+# (d) Adjusting the tone
+
+- "BASS PULL TREB" KNOB
+
+Adjust low-pitched tone
+
+Adjust high-pitched tone
+
+To adjust the low-pitched tone, push the "BASS PULL TREB" knob (if concealed) and turn it.
+
+To adjust the high-pitched tone, push the "BASS PULL TREB" knob (if concealed), pull it fully out and turn it.
+
+---
+
+68
+
+cruisercult.com
 
 ![Manual Page 68](../images/page_74.png)
 
@@ -769,7 +937,73 @@ cruisercult.com
 
 ## Page 69
 
-*Page content not yet processed*
+### (c) Presetting a station
+
+DISPLAY
+
+BUTTON NUMBER
+
+STATION SELECTOR BUTTONS
+
+1. Tune in the desired station. (See "(b) Selecting a station".)
+
+2. Push one of the station selector buttons and hold it until a beep is heard. This sets the station to the button and the button number will appear on the display.
+
+Each button can store one AM station and one FM station. To change the preset station to a different one, follow the same procedure.
+
+The preset station will be cancelled out when the power source is severed (battery disconnected, burnt fuse, etc.).
+
+---
+
+### (d) Adjusting the tone
+
+"BASS PULL TREB" KNOB
+
+Adjust low-pitched tone
+
+Adjust high-pitched tone
+
+To adjust the low-pitched tone, push the "BASS PULL TREB" knob (if concealed) and turn it.
+
+To adjust the high-pitched tone, push the "BASS PULL TREB" knob (if concealed), pull it fully out and turn it.
+
+---
+
+### (e) Adjusting the sound balance
+
+"BAL PULL FADE" KNOB
+
+Balance right and left
+
+Balance front and rear
+
+To balance the sound between the right and left speakers, push the "BAL PULL FADE" knob (if concealed) and turn it.
+
+To balance the sound between the front and rear speakers, push the "BAL PULL FADE" knob (if concealed), pull it fully out and turn it.
+
+---
+
+### (f) Listening to the cassette tape
+
+"PWR.VOL" KNOB
+
+"TAPE" BUTTON
+
+"TAPE"
+
+"PLAY"
+
+1. Put the cassette into the slot, with the tape side to the right and lightly push it in. The tape player will grab the cassette and slide it into place to play it. If the radio is turned on before inserting the cassette, it will automatically turn off.
+
+If the cassette is already in the slot, push the "TAPE" button.
+
+At this time, "TAPE" and "PLAY" will appear on the display.
+
+The tape player can also be turned on by pushing the "PWR.VOL" knob if the tape player had been played before the system was turned off by pushing the knob.
+
+cruisercult.com
+
+69
 
 ![Manual Page 69](../images/page_75.png)
 
@@ -777,7 +1011,43 @@ cruisercult.com
 
 ## Page 70
 
-*Page content not yet processed*
+## DOLBY NR BUTTON
+
+When a metal or chrome equivalent tape is inserted, the player will automatically adapt to it and "METAL" will appear on the display.
+
+2. If using a tape encoded with Dolby NR*, push the DOLBY NR button. The Dolby noise reduction system will operate. To play a normal tape, push the button once again.
+
+* Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation.
+
+---
+
+## "PWR.VOL" KNOB
+
+3. Turn the "PWR.VOL" knob to adjust the volume.
+
+4. Select your program. (See "(g) Selecting a program".)
+
+5. Adjust the tone and sound balance. (See "(d) Adjusting the tone" and "(e) Adjusting the sound balance".)
+
+---
+
+## "EJECT" BUTTON / POWER
+
+6. To turn the player off, push the "PWR.VOL" knob.
+
+7. To eject the cassette, push the "EJECT" button. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
+
+The key can be at any position to eject the cassette.
+
+---
+
+## (g) Selecting a program
+
+1. Push the "PROG" button to select a side to play. The tape operation indicator display shows you which side is being played.
+
+The player will automatically reverse directions at the end of the tape to play the other side.
+
+2. Have a desired program played using either of the following methods.
 
 ![Manual Page 70](../images/page_76.png)
 
@@ -785,7 +1055,37 @@ cruisercult.com
 
 ## Page 71
 
-*Page content not yet processed*
+(g) Selecting a program
+
+- "EJECT" BUTTON  
+- "PWR.VOL" KNOB
+
+TAPE OPERATION INDICATOR DISPLAY
+- "PROG" BUTTON
+
+1. Push the "PROG" button to select a side to play. The tape operation indicator display shows you which side is being played.
+
+   The player will automatically reverse directions at the end of the tape to play the other side.
+
+2. Have a desired program played using either of the following methods.
+
+Manual program selection
+
+Push the "FF (TUNE)" or "REW (TUNE)" button to fast forward or rewind the tape. At this time, "FF" or "REW" will appear on the display. To stop either fast forwarding or rewinding, push the "TAPE" button. The tape will resume playing.
+
+"TAPE" BUTTON
+"REW (TUNE)" BUTTON
+"FF (TUNE)" BUTTON
+
+6. To turn the player off, push the "PWR.VOL" knob.
+
+7. To eject the cassette, push the "EJECT" button. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
+
+The key can be at any position to eject the cassette.
+
+cruisercult.com
+
+71
 
 ![Manual Page 71](../images/page_77.png)
 
