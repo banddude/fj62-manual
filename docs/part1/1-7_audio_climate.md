@@ -1093,7 +1093,60 @@ cruisercult.com
 
 ## Page 72
 
-*Page content not yet processed*
+# Air conditioner controls—
+
+## AIR CONDITIONER ON-OFF BUTTON
+- OFF
+- ON
+
+---
+
+### Diagram labels and controls
+
+- AIR INTAKE CONTROL LEVER
+  - OUTSIDE AIR
+  - RECIRCULATED AIR
+  - WINDSHIELD
+  - FLOOR
+  - FACE
+
+- FAN SPEED CONTROL LEVER
+  - OFF
+  - LO
+  - I
+  - II
+  - HI
+  - A/C (button)
+
+- Fan speed indications:
+  - OFF
+  - LOW SPEED
+  - LOWER MIDDLE SPEED
+  - HIGHER MIDDLE SPEED
+  - HIGH SPEED
+
+- AIR FLOW CONTROL LEVER
+
+- TEMPERATURE CONTROL LEVER
+  - LOW
+  - HIGH
+
+---
+
+The functions of the controls are described as follows:
+1. (a) Controls and functions
+2. (b) Heating
+3. (c) Cooling
+4. (d) Ventilation
+5. (e) Windshield defogging and defrosting
+6. (f) Air flow selection
+7. (g) Operating tips
+
+---
+
+72  
+cruisercult.com  
+10520101
 
 ![Manual Page 72](../images/page_78.png)
 
@@ -1101,7 +1154,47 @@ cruisercult.com
 
 ## Page 73
 
-*Page content not yet processed*
+(a) Controls and functions
+
+The functions of the controls are described as follows:
+- (a) Controls and functions
+- (b) Heating
+- (c) Cooling
+- (d) Ventilation
+- (e) Windshield defogging and defrosting
+- (f) Air flow selection
+- (g) Operating tips
+
+[Diagram labels]
+- AIR FLOW CONTROL LEVER
+- TEMPERATURE CONTROL LEVER
+- FACE
+- LOW
+- 10520101
+
+Controls and functions
+
+[TEMPERATURE CONTROL LEVER diagram]
+- HIGH
+- LOW
+- TEMPERATURE CONTROL LEVER
+
+The temperature control lever is used to adjust the temperature of the delivered air.
+
+Move the lever toward the HIGH position for higher temperature and toward the LOW position for lower temperature.
+
+[AIR INTAKE CONTROL LEVER diagram]
+- AIR INTAKE CONTROL LEVER
+- OUTSIDE AIR
+- RECIRCULATED AIR
+
+The air intake control lever is used to select intake air, either outside air or re-circulated air.
+
+With the lever in the OUTSIDE AIR position, the system will take fresh outside air into the unit. For recirculated air, move the lever to the RECIRCULATED AIR position.
+
+cruisercult.com
+
+73
 
 ![Manual Page 73](../images/page_79.png)
 
@@ -1109,7 +1202,69 @@ cruisercult.com
 
 ## Page 74
 
-*Page content not yet processed*
+# AIR FLOW CONTROL LEVER
+
+![diagram]
+
+The air flow control lever is used to select the air flow outlets air is delivered from.  
+See “(f) Air flow selection” for detailed information.
+
+---
+
+## FAN SPEED CONTROL LEVER
+
+OFF  LO  I  II  HI  A/C
+
+HIGH SPEED  
+HIGHER MIDDLE SPEED  
+LOWER MIDDLE SPEED  
+LOW SPEED
+
+The fan speed control lever is used to turn on and off the fan and select the fan speed.
+
+The higher the fan speed setting is, the more amount of air is delivered. Moving the lever to the “OFF” position turns off the fan.
+
+---
+
+## AIR CONDITIONER ON-OFF BUTTON
+
+A/C
+
+The air conditioner on-off button is used to turn on and off the air conditioner.
+
+With the button pressed in, the air conditioner turns on and operates. Pressing the button once again will turn the air conditioner off and improve fuel economy.
+
+On long uphill drives, the additional load of the air conditioner may cause engine overheating. Watch the engine temperature gauge carefully. If the gauge indicates overheating, turn the air conditioner off.
+
+---
+
+# (b) Heating
+
+AIR INTAKE CONTROL LEVER  
+OUTSIDE AIR  
+RECIRCULATED AIR
+
+OFF  LO  I  II  HI  A/C
+
+TEMPERATURE CONTROL LEVER
+
+NO HEAT ←──────────────→ FULL HEATING
+
+1. Place the temperature control lever anywhere except the NO HEAT position.
+
+When dehumidified heating is desired, place the lever between the FULL HEATING and middle positions.
+
+2. Move the air intake control lever to the OUTSIDE AIR position.
+
+If quick circulation of heated air is desired, move the lever to the RECIRCULATED AIR position.
+
+For normal use, it is best to keep the lever in the OUTSIDE AIR position. Otherwise the windows will fog up easier.
+
+---
+
+74
+
+cruisercult.com
 
 ![Manual Page 74](../images/page_80.png)
 
@@ -1117,7 +1272,76 @@ cruisercult.com
 
 ## Page 75
 
-*Page content not yet processed*
+# AIR CONDITIONER ON-OFF BUTTON
+
+- ON
+- OFF
+
+The air conditioner on-off button is used to turn on and off the air conditioner.
+
+With the button pressed in, the air conditioner turns on and operates. Pressing the button once again will turn the air conditioner off and improve fuel economy.
+
+On long uphill drives, the additional load of the air conditioner may cause engine overheating. Watch the engine temperature gauge carefully. If the gauge indicates overheating, turn the air conditioner off.
+
+---
+
+## (b) Heating
+
+AIR INTAKE CONTROL LEVER  
+OUTSIDE AIR — RECIRCULATED AIR
+
+AIR FLOW CONTROL LEVER — FLOOR
+
+AIR CONDITIONER ON-OFF BUTTON
+
+FAN SPEED CONTROL LEVER
+
+TEMPERATURE CONTROL LEVER — FULL HEATING — NO HEAT
+
+1. Place the temperature control lever anywhere except the NO HEAT position.
+
+   When dehumidified heating is desired, place the lever between the FULL HEATING and middle positions.
+
+2. Move the air intake control lever to the OUTSIDE AIR position.
+
+   If quick circulation of heated air is desired, move the lever to the RECIRCULATED AIR position.
+
+   For normal use, it is best to keep the lever in the OUTSIDE AIR position. Otherwise the windows will fog up easier.
+
+3. Move the air flow control lever to the FLOOR position.
+
+   For detailed information on air flow control including other settings, see "(f) Air flow selection".
+
+4. Move the fan speed control lever anywhere except the "OFF" position.
+
+5. If dehumidified heating is desired, press in the air conditioner on-off button.
+
+---
+
+## (c) Cooling
+
+AIR INTAKE CONTROL LEVER  
+OUTSIDE AIR — RECIRCULATED AIR
+
+AIR FLOW CONTROL LEVER — FLOOR
+
+AIR CONDITIONER ON-OFF BUTTON
+
+FAN SPEED CONTROL LEVER
+
+FULL COOLING — TEMPERATURE CONTROL LEVER
+
+1. Place the temperature control lever anywhere between the middle and FULL COOLING positions.
+
+2. Move the air intake control lever to the OUTSIDE AIR position.
+
+   If quick circulation of cooled air is desired, move the lever to the RECIRCULATED AIR position.
+
+   For normal use, it is best to keep the lever in the OUTSIDE AIR position.
+
+cruisercult.com
+
+75
 
 ![Manual Page 75](../images/page_81.png)
 
@@ -1125,7 +1349,87 @@ cruisercult.com
 
 ## Page 76
 
-*Page content not yet processed*
+- AIR FLOW CONTROL LEVER
+- FACE
+- AIR CONDITIONER ON-OFF BUTTON
+- "OFF"
+- FAN SPEED CONTROL LEVER
+
+3. Move the air flow control lever to the FACE position.
+For detailed information on air flow control including other settings, see "(f) Air flow selection".
+4. Move the fan speed control lever anywhere except the "OFF" position.
+5. Press in the air conditioner on-off button.
+
+---
+
+## (d) Ventilation
+
+- AIR INTAKE CONTROL LEVER
+- OUTSIDE AIR
+- AIR FLOW CONTROL LEVER
+- FACE
+- OFF LO I H HI S A/C
+- "OFF"
+- AIR CONDITIONER ON-OFF BUTTON
+- TEMPERATURE CONTROL LEVER
+- FAN SPEED CONTROL LEVER
+
+1. Place the temperature control lever at the NO HEAT position.
+2. Move the air intake control lever to the OUTSIDE AIR position.
+3. Move the air flow control lever to the FACE position.
+For detailed information on air flow control including other settings, see "(f) Air flow selection".
+4. Move the fan speed control lever anywhere except the "OFF" position.
+5. Leave the air conditioner on-off button out.
+
+---
+
+## (e) Windshield defogging and defrosting
+
+- AIR INTAKE CONTROL LEVER
+- OUTSIDE AIR
+- AIR FLOW CONTROL LEVER
+- WINDSHIELD
+- OFF LO I H HI S A/C
+- "OFF"
+- AIR CONDITIONER ON-OFF BUTTON
+- TEMPERATURE CONTROL LEVER
+- FAN SPEED CONTROL LEVER
+
+To remove the interior fog on the windshield:
+1. Place the temperature control lever at any position.
+2. Move the air intake control lever to the OUTSIDE AIR position.
+3. Move the air flow control lever to the WINDSHIELD position.
+For detailed information on air flow control, see "(f) Air flow selection".
+4. Move the fan speed control lever anywhere except the "OFF" position.
+5. Press in the air conditioner on-off button.
+
+---
+
+- AIR INTAKE CONTROL LEVER
+- OUTSIDE AIR
+- AIR FLOW CONTROL LEVER
+- WINDSHIELD
+- OFF LO I H HI S A/C
+- A/C
+- "HI"
+- FULL HEATING
+- AIR CONDITIONER ON-OFF BUTTON
+- FAN SPEED CONTROL LEVER
+- TEMPERATURE CONTROL LEVER
+
+To remove the frost or exterior fog on the windshield:
+1. Place the temperature control lever at the FULL HEATING position.
+2. Move the air intake control lever to the OUTSIDE AIR position.
+3. Move the air flow control lever to the WINDSHIELD position.
+For detailed information on air flow control, see "(f) Air flow selection".
+4. Move the fan speed control lever to the "HI" position.
+5. Leave the air conditioner on-off button out.
+
+---
+
+76
+
+cruisercult.com
 
 ![Manual Page 76](../images/page_82.png)
 
@@ -1133,7 +1437,60 @@ cruisercult.com
 
 ## Page 77
 
-*Page content not yet processed*
+# (e) Windshield defogging and defrosting
+
+AIR INTAKE CONTROL LEVER  
+AIR FLOW CONTROL LEVER  
+OUTSIDE AIR  WINDSHIELD  
+
+OFF  LO  I  HI S  A/C  
+AIR CONDITIONER ON-OFF BUTTON  
+TEMPERATURE CONTROL LEVER  
+FAN SPEED CONTROL LEVER
+
+To remove the interior fog on the windshield;
+1. Place the temperature control lever at any position.
+2. Move the air intake control lever to the OUTSIDE AIR position.
+3. Move the air flow control lever to the WINDSHIELD position.
+
+For detailed information on air flow control, see "(f) Air flow selection".
+
+4. Move the fan speed control lever anywhere except the "OFF" position.
+5. Press in the air conditioner on-off button.
+
+AIR INTAKE CONTROL LEVER  
+AIR FLOW CONTROL LEVER  
+OUTSIDE AIR  WINDSHIELD
+
+"HI"  FULL HEATING  
+FAN SPEED  AIR CONDITIONER ON-OFF BUTTON  
+CONTROL LEVER  TEMPERATURE CONTROL LEVER
+
+To remove the frost or exterior fog on the windshield;
+1. Place the temperature control lever at the FULL HEATING position.
+2. Move the air intake control lever to the OUTSIDE AIR position.
+3. Move the air flow control lever to the WINDSHIELD position.
+
+For detailed information on air flow control, see "(f) Air flow selection".
+
+4. Move the fan speed control lever to the "HI" position.
+5. Leave the air conditioner on-off button out.
+
+# (f) Air flow selection
+
+FACE
+
+1. FACE position  
+This position directs air flow to the faces.
+
+FLOOR
+
+2. FLOOR position  
+This position directs air flow mostly to the floor.
+
+cruisercult.com
+
+77
 
 ![Manual Page 77](../images/page_83.png)
 
@@ -1141,7 +1498,45 @@ cruisercult.com
 
 ## Page 78
 
-*Page content not yet processed*
+# WINDSHIELD
+
+![diagram]
+
+3. WINDSHIELD position
+
+This position directs air flow mostly to the windshield and front side windows.
+
+Do not use the WINDSHIELD position during cooling operation in extremely humid weather. The difference between the temperature of the outside air and that of the windshield could cause the outer surface of the windshield to fog up, blocking your vision.
+
+---
+
+## (g) Operating tips
+
+- Be sure the air inlet grilles in front of the windshield are not blocked by leaves or other obstructions.
+- If air flow control is not satisfactory, check the dashboard vents. (See "Side vents" after "Rear heater controls".)
+- To help cool down the interior after parking in the hot sun, drive for the first few minutes with the windows open. After the excess heat has blown away, close the windows.
+- When driving on dusty roads, close all windows, set the air intake control lever in the OUTSIDE AIR position and the fan speed control lever anywhere except the "OFF" position.
+- If following another vehicle on a dusty road, or driving in windy and dusty conditions, it is recommended that the air intake control lever be temporarily set to the RECIRCULATED AIR position, which will close off the outside passage and prevent outside air and dust from entering the vehicle interior.
+
+---
+
+Page 78  
+cruisercult.com
+
+---
+
+# Heater controls —
+
+- OUTSIDE AIR
+- AIR INTAKE CONTROL LEVER
+- FAN SPEED CONTROL LEVER
+
+Controls (diagram):
+- OFF
+- LOW SPEED
+- LOWER MIDDLE SPEED
+- HIGHER MIDDLE SPEED
+- HIGH SPEED
 
 ![Manual Page 78](../images/page_84.png)
 
@@ -1149,7 +1544,33 @@ cruisercult.com
 
 ## Page 79
 
-*Page content not yet processed*
+# Heater controls —
+
+- WINDSHIELD
+- OUTSIDE AIR
+- RECIRCULATED AIR
+- FLOOR
+- FACE
+
+- AIR INTAKE CONTROL LEVER
+- AIR FLOW CONTROL LEVER
+- TEMPERATURE CONTROL LEVER
+- FAN SPEED CONTROL LEVER
+
+- OFF  LO  I  II  HI  (fan symbol)
+
+- OFF
+- HIGH SPEED
+- HIGHER MIDDLE SPEED
+- LOWER MIDDLE SPEED
+- LOW SPEED
+
+- FULL HEATING
+- NO HEAT
+
+- 10530101
+- 79
+- cruisercult.com
 
 ![Manual Page 79](../images/page_85.png)
 
@@ -1157,7 +1578,51 @@ cruisercult.com
 
 ## Page 80
 
-*Page content not yet processed*
+- The functions of the controls are described as follows:
+  - (a) Controls and functions
+  - (b) Heating
+  - (c) Ventilation
+  - (d) Windshield defogging and defrosting
+  - (e) Air flow selection
+  - (f) Operating tips
+
+(a) Controls and functions
+
+---
+
+TEMPERATURE CONTROL LEVER
+
+FULL HEATING  NO HEAT
+
+The temperature control lever is used to turn on and off the heater and adjust the temperature of the heated air.
+
+Move the lever toward the FULL HEATING position for higher temperature. Moving the lever to the NO HEAT position turns off the heater.
+
+---
+
+AIR INTAKE CONTROL LEVER
+
+OUTSIDE AIR  RECIRCULATED AIR
+
+OFF LO I IHI
+
+The air intake control lever is used to select intake air, either outside air or recirculated air.
+
+With the lever in the OUTSIDE AIR position, the system will take fresh outside air into the unit. For recirculated air, move the lever to the RECIRCULATED AIR position.
+
+---
+
+AIR FLOW CONTROL LEVER
+
+The air flow control lever is used to select the air flow outlets air is delivered from.
+
+See "(e) Air flow selection" for detailed information.
+
+---
+
+80
+
+cruisercult.com
 
 ![Manual Page 80](../images/page_86.png)
 
@@ -1165,7 +1630,61 @@ cruisercult.com
 
 ## Page 81
 
-*Page content not yet processed*
+# AIR INTAKE CONTROL LEVER
+
+OUTSIDE AIR  RECIRCULATED AIR
+
+OFF  LO  I  I  H  S
+
+The air intake control lever is used to select intake air, either outside air or recirculated air.
+
+With the lever in the OUTSIDE AIR position, the system will take fresh outside air into the unit. For recirculated air, move the lever to the RECIRCULATED AIR position.
+
+---
+
+# AIR FLOW CONTROL LEVER
+
+The air flow control lever is used to select the air flow outlets air is delivered from. See "(e) Air flow selection" for detailed information.
+
+---
+
+# FAN SPEED CONTROL LEVER
+
+OFF  LO  I  I  H  S
+
+HIGH SPEED  
+HIGHER MIDDLE SPEED  
+LOWER MIDDLE SPEED  
+LOW SPEED  
+"OFF"
+
+The fan speed control lever is used to turn on and off the fan and select the fan speed.
+
+The higher the fan speed setting is, the more amount of air is delivered. Moving the lever to the "OFF" position turns off the fan.
+
+---
+
+# (b) Heating
+
+AIR INTAKE CONTROL LEVER
+
+OUTSIDE AIR  RECIRCULATED AIR
+
+OFF  LO  I  I  H  S
+
+TEMPERATURE CONTROL LEVER
+
+1. Place the temperature control lever anywhere except the NO HEAT position.
+
+2. Move the air intake control lever to the OUTSIDE AIR position.
+
+If quick circulation of heated air is desired, move the lever to the RECIRCULATED AIR position.
+
+For normal use, it is best to keep the lever in the OUTSIDE AIR position. Otherwise the windows will fog up easier.
+
+cruisercult.com
+
+81
 
 ![Manual Page 81](../images/page_87.png)
 
@@ -1173,7 +1692,67 @@ cruisercult.com
 
 ## Page 82
 
-*Page content not yet processed*
+### (c) Ventilation
+
+AIR INTAKE CONTROL LEVER  
+OUTSIDE AIR  
+AIR FLOW CONTROL LEVER  
+FACE
+
+OFF LO I II HI S  
+"OFF"  
+NO HEAT  
+TEMPERATURE CONTROL LEVER  
+FAN SPEED CONTROL LEVER
+
+1. Place the temperature control lever at the NO HEAT position.  
+2. Move the air intake control lever to the OUTSIDE AIR position.  
+3. Move the air flow control lever to the FACE position.
+
+For detailed information on air flow control including other settings, see "(e) Air flow selection".
+
+4. Move the fan speed control lever anywhere except the "OFF" position.
+
+---
+
+3. Move the air flow control lever to the FLOOR position.
+
+For detailed information on air flow control including other settings, see "(e) Air flow selection".
+
+4. Move the fan speed control lever anywhere except the "OFF" position.
+
+---
+
+### (d) Windshield defogging and defrosting
+
+AIR INTAKE CONTROL LEVER  
+OUTSIDE AIR  
+AIR FLOW CONTROL LEVER  
+WINDSHIELD
+
+OFF LO I II HI S  
+"HI"  
+FULL HEATING  
+TEMPERATURE CONTROL LEVER  
+FAN SPEED CONTROL LEVER
+
+1. Place the temperature control lever at the FULL HEATING position.  
+2. Move the air intake control lever to the OUTSIDE AIR position.  
+3. Move the air flow control lever to the WINDSHIELD position.
+
+For detailed information on air flow control, see "(e) Air flow selection".
+
+4. Move the fan speed control lever to the "HI" position.
+
+---
+
+### (e) Air flow selection
+
+FACE
+
+1. FACE position
+
+This position directs air flow to the faces.
 
 ![Manual Page 82](../images/page_88.png)
 
@@ -1181,7 +1760,41 @@ cruisercult.com
 
 ## Page 83
 
-*Page content not yet processed*
+(d) Windshield defogging and defrosting
+
+AIR INTAKE CONTROL LEVER
+OUTSIDE AIR
+
+AIR FLOW CONTROL LEVER
+WINDSHIELD
+
+OFF  LO  I  HI
+
+"HI"  FULL HEATING
+TEMPERATURE CONTROL LEVER
+
+FAN SPEED CONTROL LEVER
+
+1. Place the temperature control lever at the FULL HEATING position.
+2. Move the air intake control lever to the OUTSIDE AIR position.
+3. Move the air flow control lever to the WINDSHIELD position.
+   For detailed information on air flow control, see "(e) Air flow selection".
+4. Move the fan speed control lever to the "HI" position.
+
+(e) Air flow selection
+
+1. FACE position
+This position directs air flow to the faces.
+
+2. FLOOR position
+This position directs air flow mostly to the floor.
+
+3. WINDSHIELD position
+This position directs air flow mostly to the windshield and front side windows.
+
+cruisercult.com
+
+83
 
 ![Manual Page 83](../images/page_89.png)
 
@@ -1189,7 +1802,28 @@ cruisercult.com
 
 ## Page 84
 
-*Page content not yet processed*
+### (f) Operating tips
+
+- Be sure the air inlet grilles in front of the windshield are not blocked by leaves or other obstructions.
+- If air flow control is not satisfactory, check the dashboard vents. (See "Side vents" after "Rear heater controls".)
+- When driving on dusty roads, close all windows, set the air intake control lever in the OUTSIDE AIR position and the fan speed control lever anywhere except the "OFF" position.
+- If following another vehicle on a dusty road, or driving in windy and dusty conditions, it is recommended that the air intake control lever be temporarily set to the RECIRCULATED AIR position, which will close off the outside passage and prevent outside air and dust from entering the vehicle interior.
+
+84
+
+cruisercult.com
+
+---
+
+## Rear heater controls
+
+- FAN SPEED CONTROL SWITCH
+  - ON (HIGH SPEED)
+  - ON (LOW SPEED)
+
+### HEATING
+1. Place the temperature control lever any where except the NO HEAT position.  
+2. Push the fan speed control switch on either side.
 
 ![Manual Page 84](../images/page_90.png)
 
@@ -1197,7 +1831,29 @@ cruisercult.com
 
 ## Page 85
 
-*Page content not yet processed*
+# Rear heater controls
+
+**FAN SPEED CONTROL SWITCH**  
+ON (HIGH SPEED)  
+ON (LOW SPEED)
+
+---
+
+## HEATING
+1. Place the temperature control lever anywhere except the NO HEAT position.  
+2. Push the fan speed control switch on either side.
+
+---
+
+FULL HEATING  
+NO HEAT  
+TEMPERATURE CONTROL LEVER
+
+1G535102
+
+cruisercult.com
+
+85
 
 ![Manual Page 85](../images/page_91.png)
 
@@ -1205,7 +1861,21 @@ cruisercult.com
 
 ## Page 86
 
-*Page content not yet processed*
+# Side vents
+
+OPEN  CLOSE
+
+10540A01
+
+The side vents may be opened or closed as shown.
+
+When defrosting, open and adjust the side vents to direct the air flow to the side windows.
+
+Part 1 C
+
+86
+
+cruisercult.com
 
 ![Manual Page 86](../images/page_92.png)
 
