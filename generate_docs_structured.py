@@ -53,7 +53,7 @@ toc = [
     ("part8/index.md", "Part 8: Specifications", 183, 188),
 
     # Part 9
-    ("part9/index.md", "Part 9: Index", 189, 205),
+    ("part9/index.md", "Part 9: Index", 189, 195),
 ]
 
 # Create directory structure

@@ -417,7 +417,45 @@ cruisercult.com
 
 ## Page 121
 
-*Page content not yet processed*
+## — Reinstalling wheel nuts
+
+8. Reinstall all the wheel nuts finger tight.  
+Reinstall the wheel nuts and tighten them as much as you can by hand. Press the tire back and see if you can tighten them more.
+
+## — Lowering your vehicle
+
+TIGHTENING TORQUE:  
+116 ft·lb  
+(16 kg·m, 157 N·m)
+
+9. Lower the vehicle completely and tighten the wheel nuts.  
+Turn the jack handle counterclockwise to lower the vehicle.
+
+Use only the wheel nut wrench to tighten the nuts. Do not use other tools or any additional leverage other than your hands, such as a hammer, pipe or your foot. Make sure the wrench is securely engaged over the nut.
+
+Tighten each nut a little at a time in the order shown. Repeat the process until all the nuts are tight.
+
+As soon as possible after changing wheels, have a technician tighten the wheel nuts to the proper torque with a torque wrench.
+
+## — Reinstalling wheel ornament
+
+10. Reinstall the wheel ornament.  
+Put the wheel ornament into position and then tap it firmly with the side or heel of your hand to snap it into place.
+
+On ornaments for free-wheeling hubs, place the installing tool over the opening and tap on the tool to snap the ornament into place. Be careful not to slip off the tool.
+
+## — After changing wheels
+
+11. Check the air pressure of the replaced tire. Restow all the tools, jack and flat tire securely.
+
+Adjust the air pressure to the specification. If the pressure is lower than specified, drive slowly to the nearest service station and fill to the correct pressure.
+
+Do not forget to reinstall the tire inflation valve cap as dirt and moisture could get into the valve core and possibly cause air leakage. If the cap is missing, have a new one put on as soon as possible.
+
+This is the same procedure for changing or rotating your tires.
+
+CAUTION:  
+Before driving, make sure that all the tools, jack and flat tire are securely in place in their storage location to reduce the possibility of personal injury during a collision or sudden braking.
 
 ![Manual Page 121](../images/page_131.png)
 
@@ -425,7 +463,55 @@ cruisercult.com
 
 ## Page 122
 
-*Page content not yet processed*
+# If your vehicle needs to be towed—
+
+If towing is necessary, we recommend you have it done by your Toyota dealer or a commercial tow truck service.  
+Proper equipment will help ensure that your vehicle is not damaged while being towed. Commercial operators are generally aware of the state/provincial and local laws pertaining to towing.
+
+Your vehicle can be damaged if it is towed incorrectly. Although most operators know the correct procedure, it is possible to make a mistake. Rather than risk damage to your vehicle, why don't you make sure that the following few precautions are observed. If necessary, show this page to the tow truck driver.
+
+## TOWING PRECAUTIONS:
+- Use a safety chain system for all towing, and abide by the state/provincial and local laws. The wheels and axle on the ground must be in good condition. If they are damaged, use a towing dolly.
+- The vehicle may be towed from either the front or rear. We recommend using a towing dolly when towing from the rear.
+
+---
+
+- **Towing with rear wheels on ground**  
+  Release the parking brake and put the transmission in "N" and the transfer in "H2". Disconnect the rear propeller shaft at the rear differential if the vehicle must be towed faster than 30 mph (45 km/h) or farther than 50 miles (80 km).
+
+  **NOTICE:**  
+  Do not tow faster or farther than the above limits without disconnecting the rear propeller shaft. This causes transmission damage.
+
+- **Towing with four wheels on ground**  
+  Disengage both free-wheeling hubs (if so equipped), place the ignition key in the "ACC" position and observe the precautions described in "Towing with rear wheels on ground".
+
+  **NOTICE:**  
+  Do not tow with the key removed or in the "LOCK" position, as the steering lock mechanism is not strong enough to hold the front wheels straight while towing.
+
+- **Towing with front wheels on ground**  
+  Put the transmission in "N" and the transfer in "H2" and place the ignition key in the "ACC" position. Disengage both free-wheeling hubs (if so equipped).
+
+---
+
+## Emergency towing
+
+![towing hook illustration]
+
+TOWING HOOK
+
+For emergency towing, secure a cable to the towing hook.
+
+Towing in this manner must not be done if the wheels, axles, drive train, steering or brakes are damaged.
+
+Before towing, release the parking brake and put the transmission in "N" and the transfer in "H2". The key must be in "ACC" (engine off) or "ON" (engine running).
+
+A driver must be in the vehicle to steer it and operate the brakes.
+
+---
+
+122
+
+cruisercult.com
 
 ![Manual Page 122](../images/page_132.png)
 
@@ -433,7 +519,39 @@ cruisercult.com
 
 ## Page 123
 
-*Page content not yet processed*
+# — Emergency towing
+
+TOWING HOOK
+
+**NOTICE:**  
+Do not tow with the key removed or in the "LOCK" position, as the steering lock mechanism is not strong enough to hold the front wheels straight while towing.
+
+For emergency towing, secure a cable to the towing hook.
+
+Towing in this manner must not be done if the wheels, axles, drive train, steering or brakes are damaged.
+
+Before towing, release the parking brake and put the transmission in "N" and the transfer in "H2". The key must be in "ACC" (engine off) or "ON" (engine running).
+
+A driver must be in the vehicle to steer it and operate the brakes.
+
+**CAUTION:**  
+If the engine is not running, the power assist for the brakes and steering will not work so steering and braking will be much harder than usual.
+
+**NOTICE:**  
+Use the towing hook only when your vehicle must be towed on hard-surfaced roads.
+
+---
+
+# — Towing hook precautions
+
+- Before towing, check that the hook installation bolts are not loose.
+- Fasten the towing rope or cable securely to the hook.
+- Do not jerk the hook.
+- To avoid damaging the hook, do not pull from the side or at a vertical angle. Always pull straight ahead.
+
+cruisercult.com
+
+123
 
 ![Manual Page 123](../images/page_133.png)
 
@@ -441,7 +559,18 @@ cruisercult.com
 
 ## Page 124
 
-*Page content not yet processed*
+# If you lose your key
+
+Many Toyota dealers can make a new key  
+if you can give them the key number.
+
+See the suggestion given in "Key" in Chapter 1-2.
+
+If your key is locked in the vehicle and you cannot get a duplicate, many Toyota dealers can still open the door for you, using their special tools. If you must break a window to get in, we suggest breaking the smallest side window because it is the least expensive to replace. Be extremely cautious to avoid cuts from the glass.
+
+*124*
+
+*cruisercult.com*
 
 ![Manual Page 124](../images/page_134.png)
 
