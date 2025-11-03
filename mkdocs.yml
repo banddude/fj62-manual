@@ -1,0 +1,48 @@
+site_name: 1989 FJ62 Owner's Manual
+site_description: Searchable documentation for the 1989 Toyota Land Cruiser FJ62 Owner's Manual
+site_author: Mike Shaffer
+repo_url: https://github.com/mikejshaffer/fj62-manual
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: en
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mikejshaffer
+
+# Navigation will be auto-generated from pages
