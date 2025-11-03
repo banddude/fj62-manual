@@ -13,9 +13,9 @@ docs_dir = Path("docs")
 
 # PDF page offsets
 # Parts 1-2: manual page 1 = PDF page 7 (offset of 6)
-# Parts 3+: There appear to be blank divider pages, so offset changes to 2
+# Parts 3+: Manual skips 4 pages, so offset decreases to -4
 OFFSET_PART1_2 = 6
-OFFSET_PART3_PLUS = 2
+OFFSET_PART3_PLUS = -4
 
 # Table of Contents mapping (section name, manual start page, manual end page, offset)
 toc = [

@@ -458,7 +458,48 @@ push the bu
 
 ## Page 59
 
-*Page content not yet processed*
+# The functions of your cassette tape player
+
+The functions of your cassette tape player are described below in the groups of operations as follows:
+
+- (a) Listening to the cassette tape  
+- (b) Selecting a program
+
+This cassette tape player is designed to be operated with the controls not only on the tape player but also on the radio which comes along with the player. Follow the instructions on the radio for adjustments not obtainable on the tape player.
+
+---
+
+## (a) Listening to the cassette tape
+
+(Diagram labels)
+- DOLBY NR LIGHT
+- "METAL" LIGHT
+- DOLBY NR BUTTON
+
+1. Put the cassette into the slot, with the tape side to the right and lightly push it in. The tape player will grab the cassette and slide it into place to play it. If the radio is turned on before inserting the cassette, it will automatically turn off.
+
+When a metal or chrome equivalent tape is inserted, the player will automatically adapt to it and the "METAL" light will come on.
+
+2. If using a tape encoded with Dolby NR*, push the DOLBY NR button. The Dolby noise reduction system will operate with the DOLBY NR light on. To play a normal tape, push the button once again.
+
+(Diagram labels)
+- "STOP" BUTTON
+
+3. Adjust the volume on the radio. (See instructions on the radio.)
+
+4. Select your program. (See "(b) Selecting a program".)
+
+5. Adjust the tone and sound balance on the radio. (See instructions on the radio.)
+
+6. Push the "STOP" button to eject the cassette. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
+
+* Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation.
+
+(cruisercult.com)
+
+10620G01  10620G02  10620G03
+
+59
 
 ![Manual Page 59](../images/page_65.png)
 
@@ -466,7 +507,40 @@ push the bu
 
 ## Page 60
 
-*Page content not yet processed*
+# (b) Selecting a program
+
+- "PROG" BUTTON  
+- "TAPE OPERATION" INDICATOR LIGHT
+
+- "REW" LIGHT  
+- "FF" LIGHT
+
+- "REW" BUTTON  
+- "FF" BUTTON  
+- "STOP" BUTTON
+
+1. Push the "PROG" button to select a side to play. The "TAPE OPERATION" indicator light shows you which side is being played.
+
+   The player will automatically reverse directions at the end of the tape to play the other side.
+
+2. Push the "FF" or "REW" button to fast forward or rewind the tape. The "FF" or "REW" light will come on. To stop either fast forwarding or rewinding, push the "STOP" button. The tape will resume playing.
+
+---
+
+# Cassette tape player (type B) —
+
+- "STOP/EJECT" BUTTON (For stop and ejectment)
+
+  [STOP/EJECT]
+
+  [PROG]  [REW]
+
+- "PROG" BUTTON (For side change)  
+- "REW" BUTTON (For rewinding)
+
+60
+
+cruisercult.com
 
 ![Manual Page 60](../images/page_66.png)
 
@@ -474,7 +548,34 @@ push the bu
 
 ## Page 61
 
-*Page content not yet processed*
+# Cassette tape player (type B) —
+
+"'STOP/EJECT' BUTTON"  
+(For stop and ejection)
+
+DISPLAY
+
+"PROG" BUTTON  
+(For side change)
+
+"REW" BUTTON  
+(For rewinding)
+
+"FF" BUTTON  
+(For fast forwarding)
+
+DOLBY NR BUTTON
+
+TAPE OPERATION  
+FF  
+REW  
+METAL
+
+10620E25
+
+cruisercult.com
+
+61
 
 ![Manual Page 61](../images/page_67.png)
 
@@ -482,7 +583,50 @@ push the bu
 
 ## Page 62
 
-*Page content not yet processed*
+## (a) Listening to the cassette tape
+
+The functions of your cassette tape player are described below in the groups of operations as follows:
+
+(a) Listening to the cassette tape  
+(b) Selecting a program
+
+This cassette tape player is designed to be operated with the controls not only on the tape player but also on the radio which comes along with the player. Follow the instructions on the radio for adjustments not obtainable on the tape player.
+
+![DOLBY NR LIGHT]  
+- "METAL" LIGHT  
+- DOLBY NR BUTTON
+
+1. Put the cassette into the slot, with the tape side to the right and lightly push it in. The tape player will grab the cassette and slide it into place to play it. If the radio is turned on before inserting the cassette, it will automatically turn off.
+
+When a metal or chrome equivalent tape is inserted, the player will automatically adapt to it and the "METAL" light will come on.
+
+2. If using a tape encoded with Dolby NR*, push the DOLBY NR button. The Dolby noise reduction system will operate with the DOLBY NR light on. To play a normal tape, push the button once again.
+
+*Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation.
+
+"STOP/EJECT" BUTTON
+
+3. Adjust the volume on the radio. (See instructions on the radio.)
+
+4. Select your program. (See "(b) Selecting a program".)
+
+5. Adjust the tone and sound balance on the radio. (See instructions on the radio.)
+
+6. Push the "STOP/EJECT" button to eject the cassette. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
+
+---
+
+## (b) Selecting a program
+
+TAPE OPERATION INDICATOR LIGHT
+
+'PROG' BUTTON
+
+1. Push the "PROG" button to select a side to play. The tape operation indicator light shows you which side is being played.
+
+The player will automatically reverse directions at the end of the tape to play the other side.
+
+cruisercult.com
 
 ![Manual Page 62](../images/page_68.png)
 
@@ -490,7 +634,33 @@ push the bu
 
 ## Page 63
 
-*Page content not yet processed*
+3. Adjust the volume on the radio. (See instructions on the radio.).
+4. Select your program. (See "(b) Selecting a program".).
+5. Adjust the tone and sound balance on the radio. (See instructions on the radio.).
+6. Push the "STOP/EJECT" button to eject the cassette. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
+
+(b) Selecting a program
+
+TAPE OPERATION INDICATOR LIGHT
+
+"PROG" BUTTON
+
+1. Push the "PROG" button to select a side to play. The tape operation indicator light shows you which side is being played.
+The player will automatically reverse directions at the end of the tape to play the other side.
+
+"FF" LIGHT
+
+"REW" LIGHT
+
+"REW" BUTTON
+
+"FF" BUTTON
+
+2. Push the "FF" or "REW" button to fast forward or rewind the tape. The "FF" or "REW" light will come on. To stop either fast forwarding or rewinding, push the "STOP/EJECT" button. The tape will resume playing.
+
+cruisercult.com
+
+63
 
 ![Manual Page 63](../images/page_69.png)
 
@@ -498,7 +668,68 @@ push the bu
 
 ## Page 64
 
-*Page content not yet processed*
+# AM-FM radio with electronic tuner and cassette tape player—
+
+## RADIO
+- "TUNE (FF)" BUTTON  
+  (For tuning to higher frequency)
+
+- "TUNE (REW)" BUTTON  
+  (For tuning to lower frequency)
+
+- RADIO DISPLAY
+
+- "PWR VOL" KNOB  
+  (For turning radio on and adjusting volume)
+
+- "EJECT" BUTTON
+
+- "AM" BUTTON  
+  (For turning radio on and selecting AM)
+
+- "FM" BUTTON  
+  (For turning radio on and selecting FM)
+
+- "TAPE" BUTTON
+
+- V TUNE REW / TUNE ^ FF (buttons shown on panel)
+
+- Station selector buttons:
+  - 1 (PROG)
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+
+- STATION SELECTOR BUTTONS
+
+- "BASS PULL TREB" KNOB  
+  (For bass and treble control)
+
+- "BAL PULL FADE" KNOB  
+  (For right and left, front and rear sound balance)
+
+10640L24
+
+64
+
+cruisercult.com
+
+---
+
+## CASSETTE TAPE PLAYER
+- "EJECT" BUTTON  
+  (For stop and ejectment)
+
+- "PWR.VOL" KNOB  
+  (For turning player on and adjusting volume)
+
+- "TAPE" BUTTON  
+  (For turning player on and selecting TAPE mode)
+
+- "PROG" BUTTON  
+  (For side change)
 
 ![Manual Page 64](../images/page_70.png)
 
