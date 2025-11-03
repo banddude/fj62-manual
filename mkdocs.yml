@@ -47,22 +47,24 @@ extra:
       link: https://github.com/banddude
 
 nav:
-  - Home: index.md
-  - "1-1. Overview of Instruments and Controls": part1/1-1_overview.md
-  - "1-2. Key and Doors": part1/1-2_key_and_doors.md
-  - "1-3. Seats, Seat Belts, Steering Wheel and Mirrors": part1/1-3_seats_belts.md
-  - "1-4. Lights, Wipers and Defogger": part1/1-4_lights_wipers.md
-  - "1-5. Gauges, Meters and Warning Lights": part1/1-5_gauges_meters.md
-  - "1-6. Ignition Switch, Transmission and Parking Brake": part1/1-6_ignition_transmission.md
-  - "1-7. Car Audio and Environmental Control System": part1/1-7_audio_climate.md
-  - "1-8. Other Equipment": part1/1-8_other_equipment.md
+  - "Complete Manual": index.md
+  - "Part 1: Operation of Instruments and Controls":
+      - "1-1. Overview of Instruments and Controls": part1/1-1_overview.md
+      - "1-2. Key and Doors": part1/1-2_key_and_doors.md
+      - "1-3. Seats, Seat Belts, Steering Wheel and Mirrors": part1/1-3_seats_belts.md
+      - "1-4. Lights, Wipers and Defogger": part1/1-4_lights_wipers.md
+      - "1-5. Gauges, Meters and Warning Lights": part1/1-5_gauges_meters.md
+      - "1-6. Ignition Switch, Transmission and Parking Brake": part1/1-6_ignition_transmission.md
+      - "1-7. Car Audio and Environmental Control System": part1/1-7_audio_climate.md
+      - "1-8. Other Equipment": part1/1-8_other_equipment.md
   - "Part 2: Information Before Driving": part2/index.md
   - "Part 3: Starting and Driving": part3/index.md
   - "Part 4: In Case of an Emergency": part4/index.md
   - "Part 5: Corrosion Prevention and Appearance Care": part5/index.md
   - "Part 6: Vehicle Maintenance and Care": part6/index.md
-  - "7-1. Introduction": part7/7-1_introduction.md
-  - "7-2. Engine and Chassis": part7/7-2_engine_chassis.md
-  - "7-3. Electrical Components": part7/7-3_electrical.md
+  - "Part 7: Service Specifications":
+      - "7-1. Introduction": part7/7-1_introduction.md
+      - "7-2. Engine and Chassis": part7/7-2_engine_chassis.md
+      - "7-3. Electrical Components": part7/7-3_electrical.md
   - "Part 8: Specifications": part8/index.md
   - "Part 9: Index": part9/index.md
