@@ -29,10 +29,10 @@ toc = [
     ("part1/1-7_audio_climate.md", "1-7. Car Audio and Environmental Control System", 49, 86, OFFSET_PART1_2),
     ("part1/1-8_other_equipment.md", "1-8. Other Equipment", 87, 90, OFFSET_PART1_2),
 
-    # Part 2
+    # Part 2 (pages 91-92, then 4 unnumbered pages, then 93-100)
     ("part2/index.md", "Part 2: Information Before Driving Your Toyota", 91, 100, OFFSET_PART1_2),
 
-    # Part 3+
+    # Part 3+ (starts at printed page 101)
     ("part3/index.md", "Part 3: Starting and Driving", 101, 112, OFFSET_PART3_PLUS),
 
     # Part 4
@@ -80,7 +80,68 @@ for section_file, section_title, manual_start, manual_end, offset in toc:
     content_parts = [f"# {section_title}\n\n"]
 
     for manual_page in range(manual_start, manual_end + 1):
-        pdf_page = manual_page + offset
+        # Special handling for Part 2: after page 92, insert 4 unnumbered pages
+        if section_file == "part2/index.md" and manual_page == 92:
+            # First show page 92
+            pdf_page = manual_page + offset
+            md_file = markdown_dir / f"page_{pdf_page}.md"
+            image_file = images_dir / f"page_{pdf_page}.png"
+
+            content_parts.append(f"## Page {manual_page}\n\n")
+
+            if md_file.exists():
+                with open(md_file, 'r', encoding='utf-8') as f:
+                    page_content = f.read().strip()
+                    if page_content:
+                        content_parts.append(f"{page_content}\n\n")
+            else:
+                content_parts.append("*Page content not yet processed*\n\n")
+
+            if image_file.exists():
+                dest_image = docs_images_dir / f"page_{pdf_page}.png"
+                if not dest_image.exists():
+                    shutil.copy2(image_file, dest_image)
+                content_parts.append(f"![Manual Page {manual_page}](../images/page_{pdf_page}.png)\n\n")
+            else:
+                content_parts.append("*Image not yet available*\n\n")
+
+            content_parts.append("---\n\n")
+
+            # Now add the 4 unnumbered pages (PDF 99-102)
+            for i in range(1, 5):
+                pdf_page = 98 + i  # PDF pages 99, 100, 101, 102
+                page_label = f"92.{i}"
+                md_file = markdown_dir / f"page_{pdf_page}.md"
+                image_file = images_dir / f"page_{pdf_page}.png"
+
+                content_parts.append(f"## Page {page_label} (unnumbered)\n\n")
+
+                if md_file.exists():
+                    with open(md_file, 'r', encoding='utf-8') as f:
+                        page_content = f.read().strip()
+                        if page_content:
+                            content_parts.append(f"{page_content}\n\n")
+                else:
+                    content_parts.append("*Page content not yet processed*\n\n")
+
+                if image_file.exists():
+                    dest_image = docs_images_dir / f"page_{pdf_page}.png"
+                    if not dest_image.exists():
+                        shutil.copy2(image_file, dest_image)
+                    content_parts.append(f"![Manual Page {page_label}](../images/page_{pdf_page}.png)\n\n")
+                else:
+                    content_parts.append("*Image not yet available*\n\n")
+
+                content_parts.append("---\n\n")
+
+            continue  # Skip the normal processing for page 92
+
+        # For page 93 onwards in Part 2, use the new offset
+        if section_file == "part2/index.md" and manual_page >= 93:
+            pdf_page = manual_page + OFFSET_PART3_PLUS
+        else:
+            pdf_page = manual_page + offset
+
         md_file = markdown_dir / f"page_{pdf_page}.md"
         image_file = images_dir / f"page_{pdf_page}.png"
 
