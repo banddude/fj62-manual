@@ -11,13 +11,8 @@ markdown_dir = Path("../1989_FJ62_Owners_Manual_pages")
 images_dir = Path("../1989_FJ62_Owners_Manual_images")
 docs_dir = Path("docs")
 
-# PDF page offsets
-# Pages 1-92: offset of 6
-# Pages 93+: offset of 10 (4 unnumbered pages between 92 and 93)
-OFFSET_BEFORE_GAP = 6  # Pages 1-92
-OFFSET_AFTER_GAP = 10  # Pages 93+
-
-# Table of Contents mapping (section name, manual start page, manual end page, offset)
+# Table of Contents mapping (section name, manual start page, manual end page)
+# NOTE: File names now directly match printed page numbers (no offset needed)
 toc = [
     # Part 1
     ("part1/1-1_overview.md", "1-1. Overview of Instruments and Controls", 1, 4),
@@ -76,15 +71,9 @@ for section_file, section_title, manual_start, manual_end in toc:
     content_parts = [f"# {section_title}\n\n"]
 
     for manual_page in range(manual_start, manual_end + 1):
-        # Determine offset based on page number
-        if manual_page <= 92:
-            offset = OFFSET_BEFORE_GAP
-        else:
-            offset = OFFSET_AFTER_GAP
-
-        pdf_page = manual_page + offset
-        md_file = markdown_dir / f"page_{pdf_page}.md"
-        image_file = images_dir / f"page_{pdf_page}.png"
+        # Files now directly match printed page numbers
+        md_file = markdown_dir / f"page-{manual_page:03d}.md"
+        image_file = images_dir / f"page-{manual_page:03d}.jpg"
 
         # Special handling for Part 2: after page 92, insert 4 unnumbered pages
         if section_file == "part2/index.md" and manual_page == 92:
@@ -100,21 +89,20 @@ for section_file, section_title, manual_start, manual_end in toc:
                 content_parts.append("*Page content not yet processed*\n\n")
 
             if image_file.exists():
-                dest_image = docs_images_dir / f"page_{pdf_page}.png"
+                dest_image = docs_images_dir / f"page-{manual_page:03d}.jpg"
                 if not dest_image.exists():
                     shutil.copy2(image_file, dest_image)
-                content_parts.append(f"![Manual Page {manual_page}](../images/page_{pdf_page}.png)\n\n")
+                content_parts.append(f"![Manual Page {manual_page}](../images/page-{manual_page:03d}.jpg)\n\n")
             else:
                 content_parts.append("*Image not yet available*\n\n")
 
             content_parts.append("---\n\n")
 
-            # Now add the 4 unnumbered pages (PDF 99-102)
+            # Now add the 4 unnumbered pages (page-092-01 through page-092-04)
             for i in range(1, 5):
-                pdf_page = 98 + i  # PDF pages 99, 100, 101, 102
                 page_label = f"92.{i}"
-                md_file = markdown_dir / f"page_{pdf_page}.md"
-                image_file = images_dir / f"page_{pdf_page}.png"
+                md_file = markdown_dir / f"page-092-{i:02d}.md"
+                image_file = images_dir / f"page-092-{i:02d}.jpg"
 
                 content_parts.append(f"## Page {page_label} (unnumbered)\n\n")
 
@@ -127,10 +115,10 @@ for section_file, section_title, manual_start, manual_end in toc:
                     content_parts.append("*Page content not yet processed*\n\n")
 
                 if image_file.exists():
-                    dest_image = docs_images_dir / f"page_{pdf_page}.png"
+                    dest_image = docs_images_dir / f"page-092-{i:02d}.jpg"
                     if not dest_image.exists():
                         shutil.copy2(image_file, dest_image)
-                    content_parts.append(f"![Manual Page {page_label}](../images/page_{pdf_page}.png)\n\n")
+                    content_parts.append(f"![Manual Page {page_label}](../images/page-092-{i:02d}.jpg)\n\n")
                 else:
                     content_parts.append("*Image not yet available*\n\n")
 
@@ -150,13 +138,12 @@ for section_file, section_title, manual_start, manual_end in toc:
         else:
             content_parts.append("*Page content not yet processed*\n\n")
 
-        # Copy and reference image (using PDF page number for file names)
+        # Copy and reference image
         if image_file.exists():
-            dest_image = docs_images_dir / f"page_{pdf_page}.png"
+            dest_image = docs_images_dir / f"page-{manual_page:03d}.jpg"
             if not dest_image.exists():
                 shutil.copy2(image_file, dest_image)
-            # Show manual page number but reference PDF page file
-            content_parts.append(f"![Manual Page {manual_page}](../images/page_{pdf_page}.png)\n\n")
+            content_parts.append(f"![Manual Page {manual_page}](../images/page-{manual_page:03d}.jpg)\n\n")
         else:
             content_parts.append("*Image not yet available*\n\n")
 

@@ -4,7 +4,7 @@
 
 # Part 1 OPERATION OF INSTRUMENTS AND CONTROLS—
 
-## Chapter 1-2  Key and Doors
+## Chapter 1-2 Key and Doors
 
 - Key
 - Doors
@@ -13,20 +13,11 @@
 - Hood
 - Fuel tank cap
 
-### Diagram labels (left page)
-- SPEEDOMETER
-- CLOCK
-- RADIO AND CASSETTE TAPE PLAYER
-- CENTER VENTS
-- EEL DRIVE INDICATOR
-- TOR LIGHTS
-- 10200107
-
 cruisercult.com
 
 5
 
-![Manual Page 5](../images/page_11.png)
+![Manual Page 5](../images/page-005.jpg)
 
 ---
 
@@ -34,72 +25,39 @@ cruisercult.com
 
 # Key
 
-![TOYOTA key image]()
-
-10050E81
-
-The key works in every lock.  
+## The key works in every lock.
 Since the doors can be locked without a key, you should always carry a spare key in case you accidentally lock your key inside the vehicle.
 
-![KEY NUMBER PLATE image]()
+## KEY NUMBER PLATE
+Keep the key number plate in a safe place such as your wallet, not in the vehicle.
 
-KEY NUMBER PLATE
-
-10050F02
-
-Keep the key number plate in a safe place such as your wallet, not in the vehicle.  
-If you should lose your key or if you need additional keys, duplicates should be made by a Toyota dealer using the key number.  
+If you should lose your key or if you need additional keys, duplicates should be made by a Toyota dealer using the key number.
 
 You should also put a copy of the key number with your important papers.
 
-cruisercult.com
-
----
-
-# Doors —
-
-## — Locking with key
-
-![Lock/unlock with key image]()
-
-10060E81
-
+# Doors — Locking with key
 Turn the key towards the front of the vehicle to lock and towards the back to unlock.
 
-## — Locking with inside lock button
+LOCK  
+UNLOCK  
+FRONT
 
-![Inside lock button image]()
+cruisercult.com
 
-10973U01
+6
 
-Push in the lock button to lock and pull it out to unlock.  
-When locked, the door cannot be opened with either the outside or inside door handle. Closing the door with the lock button pushed in will also lock the door. Be careful not to lock your key in the vehicle.
-
-![Manual Page 6](../images/page_12.png)
+![Manual Page 6](../images/page-006.jpg)
 
 ---
 
 ## Page 7
 
-# Doors —
+- Locking with inside lock button
 
-## — Locking with key
-![diagram]
-
-LOCK ↔ UNLOCK  
-FRONT
-
-Turn the key towards the front of the vehicle to lock and towards the back to unlock.
-
-10050F02 10060E81
-
----
-
-## — Locking with inside lock button
-![diagram]
-
-UNLOCK ↑  
-LOCK ↓
+UNLOCK
+↑
+LOCK
+↓
 
 Push in the lock button to lock and pull it out to unlock.
 
@@ -107,31 +65,28 @@ When locked, the door cannot be opened with either the outside or inside door ha
 
 10973U01
 
----
-
-## CAUTION:
+CAUTION:
 Before driving, be sure that the doors are closed and locked, especially when small children are in the vehicle. Along with the proper use of seat belts, locking the doors helps prevent the driver and passengers from being thrown out from the vehicle during an accident. It also helps prevent the doors from being opened unintentionally.
 
----
+- Locking with power door lock switch
 
-## — Locking with power door lock switch
-![diagram]
+DOOR
+LOCK
 
-DOOR LOCK  
-LOCK →  
+LOCK → 
 UNLOCK ←
 
 To lock all the side doors and tailgate simultaneously, push the switch on the "LOCK" side. Pushing on the opposite side will unlock them.
 
 The key can be at any position.
 
-10090T02
+11000T92
 
 cruisercult.com
 
 7
 
-![Manual Page 7](../images/page_13.png)
+![Manual Page 7](../images/page-007.jpg)
 
 ---
 
@@ -139,61 +94,46 @@ cruisercult.com
 
 # Power window switches
 
-![diagram]
+UP  
+DOWN  
+WINDOW LOCK
 
----
+10710103
 
-To raise or lower the windows, use the switch on each door. The passengers' windows can also be controlled by the switches on the driver's door.
-
+To raise or lower the windows, use the switch on each door. The passengers' windows can also be controlled by the switches on the driver's door.  
 The ignition key must be in the "ON" position.
 
-## OPERATING THE DRIVER'S WINDOW
-
+OPERATING THE DRIVER'S WINDOW  
 Push the center lever either way. The window glass moves as long as the lever is operated. For automatic operation, use the outer switch.
+
+10710104
 
 Push the outer switch down on the "AUTO" side. The window will fully open even if you let go of the switch. To stop the window partway, lightly push the center lever up.
 
----
+AUTOMATICALLY DOWN
 
-### Diagram labels
-- UP
-- DOWN
-- AUTOMATICALLY DOWN
+FOR DRIVER'S USE
 
-- FOR DRIVER'S USE
-- FOR FRONT PASSENGER'S WINDOW
-- FOR LEFT REAR WINDOW
-- FOR RIGHT REAR WINDOW
-- FOR EACH PASSENGER'S USE
+FOR FRONT PASSENGER'S WINDOW  
+FOR LEFT REAR WINDOW  
+FOR RIGHT REAR WINDOW
 
----
+UP  
+DOWN
 
-## OPERATING THE PASSENGERS' WINDOWS
+FOR EACH PASSENGER'S USE
 
-Push the switch on either side. The window glass moves as long as the switch is operated. To lock the window at that position, push the "WINDOW LOCK" switch.
+10710105
 
-With the "WINDOW LOCK" switch pressed in, the windows cannot be raised or lowered.
-
----
+8
 
 cruisercult.com
 
-![Manual Page 8](../images/page_14.png)
+![Manual Page 8](../images/page-008.jpg)
 
 ---
 
 ## Page 9
-
-# FOR DRIVER'S USE
-
-- FOR FRONT PASSENGER'S WINDOW
-- FOR LEFT REAR WINDOW
-- FOR RIGHT REAR WINDOW
-- FOR EACH PASSENGER'S USE
-
-(UP / DOWN)
-
----
 
 # OPERATING THE PASSENGERS' WINDOWS
 
@@ -203,7 +143,7 @@ With the "WINDOW LOCK" switch pressed in, the windows cannot be raised or lowere
 
 ---
 
-# CAUTION:
+**CAUTION:**
 
 To avoid personal injury, observe the following.
 
@@ -212,7 +152,7 @@ To avoid personal injury, observe the following.
 
 ---
 
-# NOTICE:
+**NOTICE:**
 
 To prevent the battery from being discharged, turn the switch on when the engine is running.
 
@@ -220,34 +160,44 @@ To prevent the battery from being discharged, turn the switch on when the engine
 
 # Tailgate —
 
-- LOCK → UNLOCK (illustrated)
-- OPEN (illustrated)
-- UNLOCK → LOCK (illustrated)
+LOCK  
+OPEN  
+UNLOCK  
+OPEN  
+UNLOCK  
+LOCK  
+OPEN
+
+1070106
+
+10850102
 
 cruisercult.com
 
 9
 
-![Manual Page 9](../images/page_15.png)
+![Manual Page 9](../images/page-009.jpg)
 
 ---
 
 ## Page 10
 
-- After closing the tailgate, try pulling it up to make sure it is securely closed.
+After closing the tailgate, try pulling it up to make sure it is securely closed.
 
-CAUTION:
+**CAUTION:**
 Keep the tailgate closed while driving. This not only keeps the luggage from being thrown out but also prevents exhaust gases from entering the vehicle.
 
 ---
 
 # Hood
 
-![Release hood lock / auxiliary catch illustration]
+- RELEASE AUXILIARY CATCH
+- RELEASE HOOD LOCK
 
 To open the hood, pull the hood lock release lever under the dash. The hood will spring up slightly. In front of the vehicle, press up on the auxiliary catch lever and lift the hood.
 
-![Support rod / slot illustration]
+- SLOT
+- SUPPORT ROD
 
 After lifting the hood up, hold it open by inserting the support rod into the slot.
 
@@ -255,50 +205,26 @@ The end of the rod should be inserted into the slot in the front edge of the hoo
 
 Before closing the hood, check to see that you have not forgotten any tools, rags, etc. and return the support rod to its clip—this prevents rattles. Then lower the hood and make sure it locks into place. If necessary, press down gently on the front edge to lock it.
 
-CAUTION:
+**CAUTION:**
 After inserting the rod, make sure it supports the hood securely.
-
----
-
-# Fuel tank cap
-
-![Fuel tank cap illustration]
-
-1. To open the fuel filler door, pull the lever out or use your key.
-
-OPEN
-
----
 
 10
 
 cruisercult.com
 
-![Manual Page 10](../images/page_16.png)
+![Manual Page 10](../images/page-010.jpg)
 
 ---
 
 ## Page 11
 
-- SUPPORT ROD
-- SLOT
+# Fuel tank cap
 
-After lifting the hood up, hold it open by inserting the support rod into the slot.
+1. To open the fuel filler door, pull the lever out or use your key.  
+10920101
 
-The end of the rod should be inserted into the slot in the front edge of the hood.
-
-Before closing the hood, check to see that you have not forgotten any tools, rags, etc. and return the support rod to its clip — this prevents rattles. Then lower the hood and make sure it locks into place. If necessary, press down gently on the front edge to lock it.
-
-CAUTION:
-After inserting the rod, make sure it supports the hood securely.
-
----
-
-Fuel tank cap
-
-1. To open the fuel filler door, pull the lever out or use your key.
-
-2. To remove the fuel tank cap, turn the cap slowly counterclockwise, then pause slightly before removing it.
+2. To remove the fuel tank cap, turn the cap slowly counterclockwise, then pause slightly before removing it.  
+10920-02
 
 It is not unusual to hear a slight swoosh when the cap is opened. When installing, make sure the tabs in the cap are properly aligned with the cutouts in the tank opening.
 
@@ -312,21 +238,17 @@ cruisercult.com
 
 11
 
-![Manual Page 11](../images/page_17.png)
+![Manual Page 11](../images/page-011.jpg)
 
 ---
 
 ## Page 12
 
-# Part 1 OF
+- 12
 
-Chapter 1-3
+- cruisercult.com
 
-12
-
-cruisercult.com
-
-![Manual Page 12](../images/page_18.png)
+![Manual Page 12](../images/page-012.jpg)
 
 ---
 

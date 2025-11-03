@@ -4,7 +4,7 @@
 
 # Part 1 OPERATION OF INSTRUMENTS AND CONTROLS—
 
-## Chapter 1-7 Car audio and Environmental control system
+## Chapter 1-7  Car audio and Environmental control system
 
 - Car audio operating tips
 - Power antenna switch
@@ -20,7 +20,7 @@ cruisercult.com
 
 49
 
-![Manual Page 49](../images/page_55.png)
+![Manual Page 49](../images/page-049.jpg)
 
 ---
 
@@ -28,68 +28,38 @@ cruisercult.com
 
 # Car audio operating tips
 
-![SERVICE AREA diagram]
-
-SERVICE AREA
-- FM (stereo)
-- FM (monaural)
-- AM
-- MULTIPATH
-- STATIC  
-(10563-01)
+**Figure labels:** SERVICE AREA · FM (stereo) · FM (monaural) · AM · MULTIPATH · STATIC · 10563-01
 
 You can listen to the car audio when the ignition key is at "ON" or "ACC". However, if the engine is not running, the key must be in the "ACC" position.
 
-NOTICE:  
+**NOTICE:**
 To prevent the battery from being discharged, do not leave the car audio on for a long period while the engine is not running.
 
-RADIO  
+## RADIO
 Adjust the length of your antenna for best reception. Usually a short length is best in large cities and a fully extended antenna is best for distant reception.
 
 Before extending the antenna, confirm that there is no one close enough to get poked.
 
----
+50
 
-NOTICE:  
+**NOTICE:**
 To prevent damage to the antenna, make sure it is retracted before running your vehicle through an automatic car wash.
 
-FM reception tips  
+## FM reception tips
 A vehicle is not an ideal place to listen to a radio. Because it moves, reception conditions are constantly changing. Buildings, terrain, signal distance and noise from other vehicles are all working against good reception. Some conditions of FM may appear to be problems when they are not. The following characteristics are completely normal for a given reception area, and they do not indicate any problem with the radio itself.
 
-- Fading and Drifting: FM range is limited to about 25 miles (40 km), except for some high power stations.
-
-  If a vehicle is moving away from the desired station's transmitter, the signal will tend to fade and/or drift. This is a more remarkable phenomenon than with AM, and is accompanied by distortion.
-
+- Fading and Drifting: FM range is limited to about 25 miles (40 km), except for some high power stations.  
+  If a vehicle is moving away from the desired station's transmitter, the signal will tend to fade and/or drift. This is a more remarkable phenomenon than with AM, and is accompanied by distortion.  
   Fading and drifting can be minimized to a certain degree by careful attention to fine tuning, or you should retune the radio to a stronger signal.
-
-- Static and Fluttering: When the line-of-sight link between a transmitter and vehicle is blocked by large buildings or the like, the radio sound may be accompanied with static or fluttering because of the characteristic of FM. In a similar effect, a fluttering noise is sometimes heard when driving along a tree-lined road.
-
-  This static and fluttering can be reduced by adjusting the tone control for greater bass response until the disturbance has passed.
-
-- Multipath: Because of the reflecting characteristics of FM, direct and reflected signals may reach the antenna at the same time (multipath) and cancel each other out. As a vehicle moves through these electronic dead spots, the listener may hear a momentary flutter or loss of reception.
-
-- Station swapping: When two FM stations are close to each other, and an electronic dead spot, such as static or multipath area, interrupts the original signal, sometimes the stronger second signal will be selected automatically until the original one returns. This swapping can also occur as you drive away from the selected station and approach another station of a stronger signal.
-
----
-
-50
 
 cruisercult.com
 
-![Manual Page 50](../images/page_56.png)
+![Manual Page 50](../images/page-050.jpg)
 
 ---
 
 ## Page 51
 
-- MULTIPATH    STATIC    10563-01
-
-- Fading and Drifting: FM range is limited to about 25 miles (40 km), except for some high power stations.
-
-  If a vehicle is moving away from the desired station's transmitter, the signal will tend to fade and/or drift. This is a more remarkable phenomenon than with AM, and is accompanied by distortion.
-
-  Fading and drifting can be minimized to a certain degree by careful attention to fine tuning, or you should retune the radio to a stronger signal.
-
 - Static and Fluttering: When the line-of-sight link between a transmitter and vehicle is blocked by large buildings or the like, the radio sound may be accompanied with static or fluttering because of the characteristic of FM. In a similar effect, a fluttering noise is sometimes heard when driving along a tree-lined road.
 
   This static and fluttering can be reduced by adjusting the tone control for greater bass response until the disturbance has passed.
@@ -98,17 +68,21 @@ cruisercult.com
 
 - Station swapping: When two FM stations are close to each other, and an electronic dead spot, such as static or multipath area, interrupts the original signal, sometimes the stronger second signal will be selected automatically until the original one returns. This swapping can also occur as you drive away from the selected station and approach another station of a stronger signal.
 
-CASSETTE TAPE PLAYER
+---
 
-- Use only cassette tapes of good quality, having no damage. Avoid using tapes with a total playing time longer than 90 minutes.
+### CASSETTE TAPE PLAYER
 
-  Using damaged tapes would put the tape player into trouble. Longer tapes are not recommended because of their thinness.
+Use only cassette tapes of good quality, having no damage. Avoid using tapes with a total playing time longer than 90 minutes.
 
-- Be sure that the tape is not slack and that the label is firmly stuck on the shell before insertion.
+Using damaged tapes would put the tape player into trouble. Longer tapes are not recommended because of their thinness.
 
-  Have the tape firmly wound around the tape by turning the hub with a pencil or the like.
+Be sure that the tape is not slack and that the label is firmly stuck on the shell before insertion.
 
-  Be careful not to touch the disclosed tape surface.
+Have the tape firmly wound around the tape hub by turning the hub with a pencil or the like.
+
+Be careful not to touch the exposed tape surface.
+
+---
 
 When not in use, take the cassette out of the player, put it back into its case and store it away from dust, magnets and direct sunlight.
 
@@ -126,15 +100,13 @@ cruisercult.com
 
 51
 
-![Manual Page 51](../images/page_57.png)
+![Manual Page 51](../images/page-051.jpg)
 
 ---
 
 ## Page 52
 
 # Power antenna switch
-
-![diagram]
 
 UP  
 DOWN
@@ -149,27 +121,7 @@ Clean the antenna mast periodically with a clean dry cloth.
 
 cruisercult.com
 
-# AM-FM radio with electronic tuner —
-
-(For tuning to l
-
-"BAL PULL FADE" KNOB  
-(For right and left, front and rear sound balance
-
-"BASS PULL TREB" KNOB  
-(For bass and treble control)
-
-"PWR, VOL" KNOB  
-(For turning radio on and adjusting volume)
-
-PUSH PWR-VOL  BASS  TREB
-
-AM-FM
-
-"AM.FM" BUTTON  
-(For selecting AM
-
-![Manual Page 52](../images/page_58.png)
+![Manual Page 52](../images/page-052.jpg)
 
 ---
 
@@ -181,119 +133,137 @@ AM-FM
   - (For tuning to lower frequency)
   - (For tuning to higher frequency)
 
-- "BAL PULL FADE" KNOB
-  - (For right and left, front and rear sound balance)
+- "BAL PULL FADE" KNOB  
+  (For right and left, front and rear sound balance)
 
-- "BASS PULL TREB" KNOB
-  - (For bass and treble control)
+- "BASS PULL TREB" KNOB  
+  (For bass and treble control)
 
 - DISPLAY
 
-- "PWR.VOL" KNOB
-  - (For turning radio on and adjusting volume)
-  - PUSH PWR-VOL
+- "PWR.VOL" KNOB  
+  (For turning radio on and adjusting volume)  
+  PUSH PWR·VOL
 
-- TREB PULL FADE
+- BASS  BAL  
+  TREB PULL FADE
 
-- AM-FM
+- AM·FM  1  2  3  4  5  6
 
-- 1  2  3  4  5  6
+- "AM·FM" BUTTON  
+  (For selecting AM or FM)
 
 - STATION SELECTOR BUTTONS
 
-- "AM.FM" BUTTON
-  - (For selecting AM or FM)
+10610L01
 
-- cruisercult.com
+53
 
-- 10610L01
+cruisercult.com
 
-- 53
-
-![Manual Page 53](../images/page_59.png)
+![Manual Page 53](../images/page-053.jpg)
 
 ---
 
 ## Page 54
 
+# (a) Listening to the radio
+
 The functions of your AM-FM radio with electronic tuner are described below in the groups of operations as follows:
 
-- (a) Listening to the radio
-- (b) Selecting a station
-- (c) Presetting a station
-- (d) Adjusting the tone
+- (a) Listening to the radio  
+- (b) Selecting a station  
+- (c) Presetting a station  
+- (d) Adjusting the tone  
 - (e) Adjusting the sound balance
 
-(a) Listening to the radio
+PUSH PWR.VOL
 
-- "PWR.VOL" KNOB
-- RADIO ON
-- ADJUST VOLUME
+"PWR.VOL" KNOB
+
+RADIO ON
+
+ADJUST VOLUME
+
+10610L02
 
 1. Push the "PWR.VOL" knob to turn the radio on.  
 2. Turn the "PWR.VOL" knob to adjust the volume.  
 3. Tune in the desired station. (See "(b) Selecting a station" and "(c) Presetting a station".)
 
 DISPLAY
+
 "ST"
+
+10610L03
 
 The radio will change automatically to stereo reception when an FM stereo broadcast is being received. At the same time, "ST" will appear on the display. When the receiving signal gets weak, the channel separation will automatically be reduced for a lowest noise. If the signal becomes extremely weak, the radio will switch over to monaural reception.
 
 4. Adjust the tone and sound balance. (See "(d) Adjusting the tone" and "(e) Adjusting the sound balance".)
-
-- "PWR.VOL" KNOB
-- RADIO OFF
-
-5. To turn the radio off, push the "PWR.VOL" knob once again.
 
 54
 
 cruisercult.com
 
-![Manual Page 54](../images/page_60.png)
+![Manual Page 54](../images/page-054.jpg)
 
 ---
 
 ## Page 55
 
-# Stereo reception
+# (b) Selecting a station
 
-The radio will change automatically to stereo reception when an FM stereo broadcast is being received. At the same time, "ST" will appear on the display. When the receiving signal gets weak, the channel separation will automatically be reduced for a lowest noise. If the signal becomes extremely weak, the radio will switch over to monaural reception.
+---
 
-4. Adjust the tone and sound balance. (See "(d) Adjusting the tone" and "(e) Adjusting the sound balance".)
+**PUSH PWR-VOL**
+
+"PWR.VOL" KNOB
+
+RADIO OFF
+
+10610L04
 
 5. To turn the radio off, push the "PWR.VOL" knob once again.
 
-# (b) Selecting a station
+---
+
+**FREQUENCY**
+
+"'AM' OR 'FM' DISPLAY"
+
+AM-FM BUTTON
+
+10610L05
 
 1. Push the "AM.FM" button to select either an AM or FM broadcast. "AM" or "FM" will appear on the display.
 
 2. Tune in the desired station using one of the following methods. The frequency will appear on the display.
 
-- FREQUENCY
-- "AM" OR "FM" DISPLAY
-- "AM.FM" BUTTON
+---
 
-## Preset tuning
-Use for tuning-in to a desired preset station.
+**BUTTON NUMBER**  DISPLAY
+
+STATION SELECTOR BUTTONS
+
+10610L06
+
+Preset tuning: Use for tuning-in to a desired preset station.
 
 Push the station selector button to which the desired station has been preset. The radio will tune in to the station and the button number will appear on the display. (See "(c) Presetting a station".)
 
-- BUTTON NUMBER DISPLAY
-- STATION SELECTOR BUTTONS
+---
 
 cruisercult.com
 
 55
 
-![Manual Page 55](../images/page_61.png)
+![Manual Page 55](../images/page-055.jpg)
 
 ---
 
 ## Page 56
 
-### "TUNE" BUTTON  "DX"
-DISPLAY
+- "TUNE" BUTTON    "DX"    DISPLAY
 
 Seek tuning: Use for automatic station search and stop.
 
@@ -301,22 +271,29 @@ Push either side of the "TUNE" button and hold it until a beep is heard. The rad
 
 If the radio cannot seek out any stations in one pass because of too weak signals, the radio will begin seeking again with sensitivity boosted for searching out weak stations. At this time, "DX" will appear on the display.
 
+10610L07
+
 ---
 
-### "TUNE" BUTTON
+- "TUNE" BUTTON
 
 Manual tuning
 
 Push either side of the "TUNE" button within 0.5 second. Each time you push the button, the radio will step up or down to another frequency where stations could exist.
 
+10610L08
+
 ---
 
-### (c) Presetting a station
+(c) Presetting a station
 
-BUTTON NUMBER  
-DISPLAY
+BUTTON NUMBER    DISPLAY
+
+1  2  3  4  5  6
 
 STATION SELECTOR BUTTONS
+
+10610L06
 
 1. Tune in the desired station. (See "(b) Selecting a station".)
 
@@ -325,64 +302,46 @@ STATION SELECTOR BUTTONS
 Each button can store one AM station and one FM station. To change the preset station to a different one, follow the same procedure.
 
 The preset station will be cancelled out when the power source is severed (battery disconnected, burnt fuse, etc.).
-
----
-
-### (d) Adjusting the tone
-
-"BASS PULL TREB" KNOB
-
-Adjust low-pitched tone
-
-Adjust high-pitched tone
-
-To adjust the low-pitched tone, push the "BASS PULL TREB" knob (if concealed) and turn it.
-
-To adjust the high-pitched tone, push the "BASS PULL TREB" knob (if concealed), pull it fully out and turn it.
-
----
 
 56
 
 cruisercult.com
 
-![Manual Page 56](../images/page_62.png)
+![Manual Page 56](../images/page-056.jpg)
 
 ---
 
 ## Page 57
 
-(c) Presetting a station
-- [DIAGRAM]
-  - BUTTON NUMBER
-  - DISPLAY
-  - STATION SELECTOR BUTTONS
+# (d) Adjusting the tone
 
-1. Tune in the desired station. (See "(b) Selecting a station".)
+"BASS PULL TREB" KNOB
 
-2. Push one of the station selector buttons and hold it until a beep is heard. This sets the station to the button and the button number will appear on the display.
+[BASS] [TREB PULL]
 
-Each button can store one AM station and one FM station. To change the preset station to a different one, follow the same procedure.
+(illustration)
 
-The preset station will be cancelled out when the power source is severed (battery disconnected, burnt fuse, etc.).
+- Adjust low-pitched tone
+- Adjust high-pitched tone
 
-(d) Adjusting the tone
-- [DIAGRAM]
-  - "BASS PULL TREB" KNOB
-  - BASS / TREB
-  - Adjust low-pitched tone (arrow showing turn)
-  - Adjust high-pitched tone (arrow showing pull and turn)
+10610L09
 
 To adjust the low-pitched tone, push the "BASS PULL TREB" knob (if concealed) and turn it.
 
 To adjust the high-pitched tone, push the "BASS PULL TREB" knob (if concealed), pull it fully out and turn it.
 
-(e) Adjusting the sound balance
-- [DIAGRAM]
-  - "BAL PULL FADE" KNOB
-  - BAL / FADE
-  - Balance right and left (arrow showing turn)
-  - Balance front and rear (arrow showing pull and turn)
+# (e) Adjusting the sound balance
+
+"BAL PULL FADE" KNOB
+
+[BAL] [PULL FADE]
+
+(illustration)
+
+- Balance right and left
+- Balance front and rear
+
+10610L10
 
 To balance the sound between the right and left speakers, push the "BAL PULL FADE" knob (if concealed) and turn it.
 
@@ -392,7 +351,7 @@ cruisercult.com
 
 57
 
-![Manual Page 57](../images/page_63.png)
+![Manual Page 57](../images/page-057.jpg)
 
 ---
 
@@ -403,12 +362,19 @@ cruisercult.com
 - "PROG" BUTTON  
   (For side change)
 
+- PROG
+
 - DISPLAY
+
+- TAPE OPERATION  
+  REW  FF
 
 - "METAL" LIGHT  
   (For metal or chrome tape indication)
 
 - DOLBY NR LIGHT
+
+- REW  STOP  FF
 
 - "REW" BUTTON  
   (For rewinding)
@@ -421,57 +387,158 @@ cruisercult.com
 
 - DOLBY NR BUTTON
 
-10620G01
+58
 
-58  
 cruisercult.com
 
----
+10620601
 
-The functions of your cassette tape player are described below in the groups of operations as follows:
-
-(a) Listening to the cassette tape  
-(b) Selecting a program
-
-This cassette tape player is designed to be operated with the controls not only on the tape player but also on the radio which comes along with the player. Follow the instructions on the radio for adjustments not obtainable on the tape player.
-
-1. Put the tape side to  
-The tape  
-The tape  
-slide it in  
-turned on  
-automatica
-
-When a  
-inserted, to  
-to it and the
-
-2. If using  
-push the D  
-reduction  
-DOLBY NR  
-push the bu
-
-![Manual Page 58](../images/page_64.png)
+![Manual Page 58](../images/page-058.jpg)
 
 ---
 
 ## Page 59
 
-# The functions of your cassette tape player
+# (a) Listening to the cassette tape
 
 The functions of your cassette tape player are described below in the groups of operations as follows:
 
-- (a) Listening to the cassette tape  
+- (a) Listening to the cassette tape
 - (b) Selecting a program
 
 This cassette tape player is designed to be operated with the controls not only on the tape player but also on the radio which comes along with the player. Follow the instructions on the radio for adjustments not obtainable on the tape player.
 
 ---
 
+DOLBY NR LIGHT    "METAL" LIGHT  
+(NOTE: diagram)  
+DOLBY NR BUTTON  
+10620G02
+
+(STOP) BUTTON  
+"STOP" BUTTON  
+10620G03
+
+---
+
+1. Put the cassette into the slot, with the tape side to the right and lightly push it in. The tape player will grab the cassette and slide it into place to play it. If the radio is turned on before inserting the cassette, it will automatically turn off.
+
+When a metal or chrome equivalent tape is inserted, the player will automatically adapt to it and the "METAL" light will come on.
+
+2. If using a tape encoded with Dolby NR*, push the DOLBY NR button. The Dolby noise reduction system will operate with the DOLBY NR light on. To play a normal tape, push the button once again.
+
+* Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation.
+
+3. Adjust the volume on the radio. (See instructions on the radio.)
+
+4. Select your program. (See "(b) Selecting a program".)
+
+5. Adjust the tone and sound balance on the radio. (See instructions on the radio.)
+
+6. Push the "STOP" button to eject the cassette. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
+
+cruisercult.com
+
+59
+
+![Manual Page 59](../images/page-059.jpg)
+
+---
+
+## Page 60
+
+## (b) Selecting a program
+
+"PROG" BUTTON
+
+"TAPE OPERATION" INDICATOR LIGHT
+
+10620004
+
+"REW" LIGHT
+
+"FF" LIGHT
+
+"REW" BUTTON
+
+"STOP" BUTTON
+
+"FF" BUTTON
+
+10620005
+
+1. Push the "PROG" button to select a side to play. The "TAPE OPERATION" indicator light shows you which side is being played.  
+The player will automatically reverse directions at the end of the tape to play the other side.
+
+2. Push the "FF" or "REW" button to fast forward or rewind the tape. The "FF" or "REW" light will come on. To stop either fast forwarding or rewinding, push the "STOP" button. The tape will resume playing.
+
+60
+
+cruisercult.com
+
+![Manual Page 60](../images/page-060.jpg)
+
+---
+
+## Page 61
+
+# Cassette tape player (type B) -
+
+- "STOP/EJECT" BUTTON  
+  (For stop and ejectment)
+
+- DISPLAY
+
+- STOP/ EJECT
+
+- "PROG" BUTTON  
+  (For side change)
+
+- PROG
+
+- REW
+
+- "REW" BUTTON  
+  (For rewinding)
+
+- FF
+
+- "FF" BUTTON  
+  (For fast forwarding)
+
+- DO
+
+- DOLBY NR BUTTON
+
+- (small display panel)
+  - [FF] [00]
+  - TAPE OPERATION
+  - REW     METAL
+
+10620E25
+
+61
+
+cruisercult.com
+
+![Manual Page 61](../images/page-061.jpg)
+
+---
+
+## Page 62
+
+# The functions of your cassette tape player
+
+The functions of your cassette tape player are described below in the groups of operations as follows:
+
+- (a) Listening to the cassette tape
+- (b) Selecting a program
+
+This cassette tape player is designed to be operated with the controls not only on the tape player but also on the radio which comes along with the player. Follow the instructions on the radio for adjustments not obtainable on the tape player.
+
 ## (a) Listening to the cassette tape
 
-(Diagram labels)
+Illustration labels:
 - DOLBY NR LIGHT
 - "METAL" LIGHT
 - DOLBY NR BUTTON
@@ -482,256 +549,60 @@ When a metal or chrome equivalent tape is inserted, the player will automaticall
 
 2. If using a tape encoded with Dolby NR*, push the DOLBY NR button. The Dolby noise reduction system will operate with the DOLBY NR light on. To play a normal tape, push the button once again.
 
-(Diagram labels)
-- "STOP" BUTTON
+\* Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation "DOLBY" and the double-D symbol □□ are trademarks of Dolby Laboratories Licensing Corporation.
 
-3. Adjust the volume on the radio. (See instructions on the radio.)
+Illustration label:
+- "STOP/EJECT" BUTTON
 
-4. Select your program. (See "(b) Selecting a program".)
-
-5. Adjust the tone and sound balance on the radio. (See instructions on the radio.)
-
-6. Push the "STOP" button to eject the cassette. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
-
-* Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation.
-
-(cruisercult.com)
-
-10620G01  10620G02  10620G03
-
-59
-
-![Manual Page 59](../images/page_65.png)
-
----
-
-## Page 60
-
-# (b) Selecting a program
-
-- "PROG" BUTTON  
-- "TAPE OPERATION" INDICATOR LIGHT
-
-- "REW" LIGHT  
-- "FF" LIGHT
-
-- "REW" BUTTON  
-- "FF" BUTTON  
-- "STOP" BUTTON
-
-1. Push the "PROG" button to select a side to play. The "TAPE OPERATION" indicator light shows you which side is being played.
-
-   The player will automatically reverse directions at the end of the tape to play the other side.
-
-2. Push the "FF" or "REW" button to fast forward or rewind the tape. The "FF" or "REW" light will come on. To stop either fast forwarding or rewinding, push the "STOP" button. The tape will resume playing.
-
----
-
-# Cassette tape player (type B) —
-
-- "STOP/EJECT" BUTTON (For stop and ejectment)
-
-  [STOP/EJECT]
-
-  [PROG]  [REW]
-
-- "PROG" BUTTON (For side change)  
-- "REW" BUTTON (For rewinding)
-
-60
-
-cruisercult.com
-
-![Manual Page 60](../images/page_66.png)
-
----
-
-## Page 61
-
-# Cassette tape player (type B) —
-
-"'STOP/EJECT' BUTTON"  
-(For stop and ejection)
-
-DISPLAY
-
-"PROG" BUTTON  
-(For side change)
-
-"REW" BUTTON  
-(For rewinding)
-
-"FF" BUTTON  
-(For fast forwarding)
-
-DOLBY NR BUTTON
-
-TAPE OPERATION  
-FF  
-REW  
-METAL
-
-10620E25
-
-cruisercult.com
-
-61
-
-![Manual Page 61](../images/page_67.png)
-
----
-
-## Page 62
-
-## (a) Listening to the cassette tape
-
-The functions of your cassette tape player are described below in the groups of operations as follows:
-
-(a) Listening to the cassette tape  
-(b) Selecting a program
-
-This cassette tape player is designed to be operated with the controls not only on the tape player but also on the radio which comes along with the player. Follow the instructions on the radio for adjustments not obtainable on the tape player.
-
-![DOLBY NR LIGHT]  
-- "METAL" LIGHT  
-- DOLBY NR BUTTON
-
-1. Put the cassette into the slot, with the tape side to the right and lightly push it in. The tape player will grab the cassette and slide it into place to play it. If the radio is turned on before inserting the cassette, it will automatically turn off.
-
-When a metal or chrome equivalent tape is inserted, the player will automatically adapt to it and the "METAL" light will come on.
-
-2. If using a tape encoded with Dolby NR*, push the DOLBY NR button. The Dolby noise reduction system will operate with the DOLBY NR light on. To play a normal tape, push the button once again.
-
-*Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation.
-
-"STOP/EJECT" BUTTON
-
-3. Adjust the volume on the radio. (See instructions on the radio.)
+3. Adjust the volume on the radio. (See instructions on the radio.).
 
 4. Select your program. (See "(b) Selecting a program".)
 
-5. Adjust the tone and sound balance on the radio. (See instructions on the radio.)
+5. Adjust the tone and sound balance on the radio. (See instructions on the radio.).
 
 6. Push the "STOP/EJECT" button to eject the cassette. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
 
----
-
-## (b) Selecting a program
-
-TAPE OPERATION INDICATOR LIGHT
-
-'PROG' BUTTON
-
-1. Push the "PROG" button to select a side to play. The tape operation indicator light shows you which side is being played.
-
-The player will automatically reverse directions at the end of the tape to play the other side.
+62
 
 cruisercult.com
 
-![Manual Page 62](../images/page_68.png)
+![Manual Page 62](../images/page-062.jpg)
 
 ---
 
 ## Page 63
 
-3. Adjust the volume on the radio. (See instructions on the radio.).
-4. Select your program. (See "(b) Selecting a program".).
-5. Adjust the tone and sound balance on the radio. (See instructions on the radio.).
-6. Push the "STOP/EJECT" button to eject the cassette. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
+## (b) Selecting a program
 
-(b) Selecting a program
+- TAPE OPERATION INDICATOR LIGHT  
+  "PROG" BUTTON  
+  10620E28
 
-TAPE OPERATION INDICATOR LIGHT
+- "FF" LIGHT  
+  STOP / EJECT  
+  "REW" BUTTON  
+  "FF" BUTTON  
+  "REW" LIGHT  
+  10620E29
 
-"PROG" BUTTON
+1. Push the "PROG" button to select a side to play. The tape operation indicator light shows you which side is being played.  
+   The player will automatically reverse directions at the end of the tape to play the other side.
 
-1. Push the "PROG" button to select a side to play. The tape operation indicator light shows you which side is being played.
-The player will automatically reverse directions at the end of the tape to play the other side.
-
-"FF" LIGHT
-
-"REW" LIGHT
-
-"REW" BUTTON
-
-"FF" BUTTON
-
-2. Push the "FF" or "REW" button to fast forward or rewind the tape. The "FF" or "REW" light will come on. To stop either fast forwarding or rewinding, push the "STOP/EJECT" button. The tape will resume playing.
+2. Push the "FF" or "REW" button to fast forward or rewind the tape. The "FF" or "REW" light will come on. To stop either fast forwarding or rewinding, push the "STOP/ EJECT" button. The tape will resume playing.
 
 cruisercult.com
 
 63
 
-![Manual Page 63](../images/page_69.png)
+![Manual Page 63](../images/page-063.jpg)
 
 ---
 
 ## Page 64
 
-# AM-FM radio with electronic tuner and cassette tape player—
+*Page content not yet processed*
 
-## RADIO
-- "TUNE (FF)" BUTTON  
-  (For tuning to higher frequency)
-
-- "TUNE (REW)" BUTTON  
-  (For tuning to lower frequency)
-
-- RADIO DISPLAY
-
-- "PWR VOL" KNOB  
-  (For turning radio on and adjusting volume)
-
-- "EJECT" BUTTON
-
-- "AM" BUTTON  
-  (For turning radio on and selecting AM)
-
-- "FM" BUTTON  
-  (For turning radio on and selecting FM)
-
-- "TAPE" BUTTON
-
-- V TUNE REW / TUNE ^ FF (buttons shown on panel)
-
-- Station selector buttons:
-  - 1 (PROG)
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-
-- STATION SELECTOR BUTTONS
-
-- "BASS PULL TREB" KNOB  
-  (For bass and treble control)
-
-- "BAL PULL FADE" KNOB  
-  (For right and left, front and rear sound balance)
-
-10640L24
-
-64
-
-cruisercult.com
-
----
-
-## CASSETTE TAPE PLAYER
-- "EJECT" BUTTON  
-  (For stop and ejectment)
-
-- "PWR.VOL" KNOB  
-  (For turning player on and adjusting volume)
-
-- "TAPE" BUTTON  
-  (For turning player on and selecting TAPE mode)
-
-- "PROG" BUTTON  
-  (For side change)
-
-![Manual Page 64](../images/page_70.png)
+![Manual Page 64](../images/page-064.jpg)
 
 ---
 
@@ -739,77 +610,113 @@ cruisercult.com
 
 # CASSETTE TAPE PLAYER
 
-- "FF (TUNE)" BUTTON (For fast forwarding)
-- "REW (TUNE)" BUTTON (For rewinding)
-- "EJECT" BUTTON (For stop and ejectment)
-- "TAPE PLAYER DISPLAY
-- "PWR.VOL" KNOB (For turning player on and adjusting volume)
-- "TAPE" BUTTON (For turning player on and selecting TAPE mode)
+- "FF (TUNE)" BUTTON  
+  (For fast forwarding)
+
+- "REW (TUNE)" BUTTON  
+  (For rewinding)
+
+- "EJECT" BUTTON  
+  (For stop and ejectment)
+
+- TAPE PLAYER DISPLAY  
+  - T A P E  
+  - P L A Y
+
+- PUSH PWR·VOL (on knob)
+
+- "PWR.VOL" KNOB  
+  (For turning player on and adjusting volume)
+
 - AM
+
 - FM
-- TAPE
-- "V TUNE" REW
-- TUNE ∧ FF
-- 1  2  3
-- 4  5  6
-- "PROG" BUTTON (For side change)
+
+- "TAPE" BUTTON  
+  (For turning player on and selecting TAPE mode)
+
+- V TUNE  
+  REW
+
+- TUNE ^  
+  FF
+
+- 1  PROG.
+
+- 2
+
+- 3
+
+- 4
+
+- 5
+
+- 6
+
+- "PROG" BUTTON  
+  (For side change)
+
 - DOLBY NR BUTTON
-- "BASS PULL TREB" KNOB (For bass and treble control)
-- "BAL PULL FADE" KNOB (For right and left, front and rear sound balance)
+
+- "BASS PULL TREB" KNOB  
+  (For bass and treble control)
+
+- "BAL PULL FADE" KNOB  
+  (For right and left, front and rear sound balance)
+
+- BASS
+
+- BAL
 
 cruisercult.com
 
-10640L25
+10540L25
+
 65
 
----
-
-# RADIO DISPLAY (left page)
-
-- RADIO DISPLAY
-- "BAL PULL FADE" KNOB (For right and left, front and rear sound balance)
-- "BASS PULL TREB" KNOB (For bass and treble control)
-
-10640L24
-
-![Manual Page 65](../images/page_71.png)
+![Manual Page 65](../images/page-065.jpg)
 
 ---
 
 ## Page 66
 
-# (a) Listening to the radio
-
 The functions of this system are described below in the groups of operations.
 
-For radio operation, see:  
-(a) Listening to the radio  
-(b) Selecting a station  
-(c) Presetting a station  
-(d) Adjusting the tone  
-(e) Adjusting the sound balance
+For radio operation, see:
+- (a) Listening to the radio
+- (b) Selecting a station
+- (c) Presetting a station
+- (d) Adjusting the tone
+- (e) Adjusting the sound balance
 
-For cassette tape player operation, see:  
-(f) Listening to the cassette tape  
-(g) Selecting a program  
-(d) Adjusting the tone  
-(e) Adjusting the sound balance
+For cassette tape player operation, see:
+- (f) Listening to the cassette tape
+- (g) Selecting a program
+- (d) Adjusting the tone
+- (e) Adjusting the sound balance
 
----
+66
 
-Diagram labels:  
-- "PWR.VOL" KNOB  
-- ADJUST VOLUME  
-- "AM" OR "FM"  
-- "AM" BUTTON  
-- "FM" BUTTON  
-- DISPLAY  
-- "ST"  
-- 88.9 (displayed frequency)  
-- RADIO OFF
+cruisercult.com
 
-1. Push the "AM" or "FM" button to turn the radio on and select either an AM or FM broadcast.  
-"AM" or "FM" will appear on the display.  
+(a) Listening to the radio
+
+"ADJUST VOLUME"
+
+"PWR.VOL" KNOB
+
+"AM" OR "FM"
+
+"AM" BUTTON
+
+"FM" BUTTON
+
+"AM" OR "FM"  "'ST'"  DISPLAY
+
+1. Push the "AM" or "FM" button to turn the radio on and select either an AM or FM broadcast.
+
+"AM" or "FM" will appear on the display.
+
 The radio can also be turned on by pushing the "PWR.VOL" knob if the radio had been on before the system was turned off.
 
 2. Turn the "PWR.VOL" knob to adjust the volume.
@@ -820,45 +727,35 @@ The radio will change automatically to stereo reception when an FM stereo broadc
 
 4. Adjust the tone and sound balance. (See "(d) Adjusting the tone" and "(e) Adjusting the sound balance".)
 
-5. To turn the radio off, push the "PWR.VOL" knob.
-
----
-
-66
-
-cruisercult.com
-
-![Manual Page 66](../images/page_72.png)
+![Manual Page 66](../images/page-066.jpg)
 
 ---
 
 ## Page 67
 
-- "AM" OR "FM"
-- "ST"
-- DISPLAY
+## (b) Selecting a station
 
-The radio will change automatically to stereo reception when an FM stereo broadcast is being received. At the same time, "ST" will appear on the display. When the receiving signal gets weak, the channel separation will automatically be reduced for a lowest noise. If the signal becomes extremely weak, the radio will switch over to monaural reception.
+RADIO OFF
 
-4. Adjust the tone and sound balance. (See "(d) Adjusting the tone" and "(e) Adjusting the sound balance".)
+"PWR·VOL" KNOB
 
-"RADIO OFF"
-"PWR.VOL" KNOB
+10640L28
 
 5. To turn the radio off, push the "PWR.VOL" knob.
 
-(b) Selecting a station
-
-F M
-ST
-88.9
 FREQUENCY
+
+10640L27
 
 Tune in the desired station using one of the following methods. The frequency will appear on the display.
 
 DISPLAY
+
 BUTTON NUMBER
+
 STATION SELECTOR BUTTONS
+
+10640L30
 
 Preset tuning: Use for tuning-in to a desired preset station.
 
@@ -868,20 +765,20 @@ cruisercult.com
 
 67
 
-![Manual Page 67](../images/page_73.png)
+![Manual Page 67](../images/page-067.jpg)
 
 ---
 
 ## Page 68
 
-# "DX"
-- "TUNE (REW)" BUTTON
-- "TUNE (FF)" BUTTON
-- DISPLAY
+## "DX"  
+"TUNE (REW)" BUTTON  
+"TUNE (FF)" BUTTON  
+DISPLAY  
+10640L31
 
----
-
-# Seek tuning: Use for automatic station search and stop.
+## Seek tuning:
+Use for automatic station search and stop.
 
 Push the "TUNE (FF)" or "TUNE (REW)" button and hold it until a beep is heard. The radio will begin seeking up or down a station of the nearest frequency and stop on reception. Each time you push the button, stations are seeked out one after another.
 
@@ -889,61 +786,23 @@ If the radio cannot seek out any stations in one pass because of too weak signal
 
 ---
 
-# Manual tuning
+"TUNE (FF)" BUTTON  
+"TUNE (REW)" BUTTON  
+V TUNE REW  
+TUNE ^ FF  
+10640L32
 
-- "TUNE (FF)" BUTTON
-- "TUNE (REW)" BUTTON
-
+## Manual tuning
 Push the "TUNE (FF)" or "TUNE (REW)" button within 0.5 second. Each time you push the button, the radio will step up or down to another frequency where stations could exist.
 
 ---
 
-# (c) Presetting a station
+(c) Presetting a station
 
-- DISPLAY
-- BUTTON NUMBER
-- STATION SELECTOR BUTTONS
-
-1. Tune in the desired station. (See "(b) Selecting a station".)  
-2. Push one of the station selector buttons and hold it until a beep is heard. This sets the station to the button and the button number will appear on the display.
-
-Each button can store one AM station and one FM station. To change the preset station to a different one, follow the same procedure.
-
-The preset station will be cancelled out when the power source is severed (battery disconnected, burnt fuse, etc.).
-
----
-
-# (d) Adjusting the tone
-
-- "BASS PULL TREB" KNOB
-
-Adjust low-pitched tone
-
-Adjust high-pitched tone
-
-To adjust the low-pitched tone, push the "BASS PULL TREB" knob (if concealed) and turn it.
-
-To adjust the high-pitched tone, push the "BASS PULL TREB" knob (if concealed), pull it fully out and turn it.
-
----
-
-68
-
-cruisercult.com
-
-![Manual Page 68](../images/page_74.png)
-
----
-
-## Page 69
-
-### (c) Presetting a station
-
-DISPLAY
-
-BUTTON NUMBER
-
-STATION SELECTOR BUTTONS
+DISPLAY  
+BUTTON NUMBER  
+STATION SELECTOR BUTTONS  
+10640L30
 
 1. Tune in the desired station. (See "(b) Selecting a station".)
 
@@ -953,9 +812,17 @@ Each button can store one AM station and one FM station. To change the preset st
 
 The preset station will be cancelled out when the power source is severed (battery disconnected, burnt fuse, etc.).
 
+68  
+cruisercult.com
+
+![Manual Page 68](../images/page-068.jpg)
+
 ---
 
-### (d) Adjusting the tone
+## Page 69
+
+(d) Adjusting the tone
+----------------------
 
 "BASS PULL TREB" KNOB
 
@@ -967,9 +834,8 @@ To adjust the low-pitched tone, push the "BASS PULL TREB" knob (if concealed) an
 
 To adjust the high-pitched tone, push the "BASS PULL TREB" knob (if concealed), pull it fully out and turn it.
 
----
-
-### (e) Adjusting the sound balance
+(e) Adjusting the sound balance
+-------------------------------
 
 "BAL PULL FADE" KNOB
 
@@ -981,15 +847,14 @@ To balance the sound between the right and left speakers, push the "BAL PULL FAD
 
 To balance the sound between the front and rear speakers, push the "BAL PULL FADE" knob (if concealed), pull it fully out and turn it.
 
----
-
-### (f) Listening to the cassette tape
+(f) Listening to the cassette tape
+---------------------------------
 
 "PWR.VOL" KNOB
 
-"TAPE" BUTTON
-
 "TAPE"
+
+"TAPE" BUTTON
 
 "PLAY"
 
@@ -1001,27 +866,27 @@ At this time, "TAPE" and "PLAY" will appear on the display.
 
 The tape player can also be turned on by pushing the "PWR.VOL" knob if the tape player had been played before the system was turned off by pushing the knob.
 
-cruisercult.com
-
-69
-
-![Manual Page 69](../images/page_75.png)
+![Manual Page 69](../images/page-069.jpg)
 
 ---
 
 ## Page 70
 
-## DOLBY NR BUTTON
+# DOLBY NR BUTTON
+
+![10640L36]
 
 When a metal or chrome equivalent tape is inserted, the player will automatically adapt to it and "METAL" will appear on the display.
 
 2. If using a tape encoded with Dolby NR*, push the DOLBY NR button. The Dolby noise reduction system will operate. To play a normal tape, push the button once again.
 
-* Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol are trademarks of Dolby Laboratories Licensing Corporation.
+* Dolby noise reduction manufactured under license from Dolby Laboratories Licensing Corporation. "DOLBY" and the double-D symbol □□ are trademarks of Dolby Laboratories Licensing Corporation.
 
 ---
 
-## "PWR.VOL" KNOB
+# ADJUST VOLUME
+
+![10640L37]
 
 3. Turn the "PWR.VOL" knob to adjust the volume.
 
@@ -1031,7 +896,9 @@ When a metal or chrome equivalent tape is inserted, the player will automaticall
 
 ---
 
-## "EJECT" BUTTON / POWER
+# "EJECT" BUTTON
+
+![10640L38]
 
 6. To turn the player off, push the "PWR.VOL" knob.
 
@@ -1041,7 +908,28 @@ The key can be at any position to eject the cassette.
 
 ---
 
-## (g) Selecting a program
+cruisercult.com
+
+70
+
+![Manual Page 70](../images/page-070.jpg)
+
+---
+
+## Page 71
+
+# (g) Selecting a program
+
+- TAPE OPERATION INDICATOR DISPLAY  
+- "PROG" BUTTON
+
+Diagram labels:
+- DISPLAY  
+- "REW"  
+- "TAPE" BUTTON  
+- "FF"  
+- "REW (TUNE)" BUTTON  
+- "FF (TUNE)" BUTTON
 
 1. Push the "PROG" button to select a side to play. The tape operation indicator display shows you which side is being played.
 
@@ -1049,45 +937,15 @@ The player will automatically reverse directions at the end of the tape to play 
 
 2. Have a desired program played using either of the following methods.
 
-![Manual Page 70](../images/page_76.png)
-
----
-
-## Page 71
-
-(g) Selecting a program
-
-- "EJECT" BUTTON  
-- "PWR.VOL" KNOB
-
-TAPE OPERATION INDICATOR DISPLAY
-- "PROG" BUTTON
-
-1. Push the "PROG" button to select a side to play. The tape operation indicator display shows you which side is being played.
-
-   The player will automatically reverse directions at the end of the tape to play the other side.
-
-2. Have a desired program played using either of the following methods.
-
 Manual program selection
 
 Push the "FF (TUNE)" or "REW (TUNE)" button to fast forward or rewind the tape. At this time, "FF" or "REW" will appear on the display. To stop either fast forwarding or rewinding, push the "TAPE" button. The tape will resume playing.
-
-"TAPE" BUTTON
-"REW (TUNE)" BUTTON
-"FF (TUNE)" BUTTON
-
-6. To turn the player off, push the "PWR.VOL" knob.
-
-7. To eject the cassette, push the "EJECT" button. As this is done, the player will turn off. If the radio had been on before the cassette tape was inserted, it will automatically turn on again.
-
-The key can be at any position to eject the cassette.
 
 cruisercult.com
 
 71
 
-![Manual Page 71](../images/page_77.png)
+![Manual Page 71](../images/page-071.jpg)
 
 ---
 
@@ -1101,102 +959,88 @@ cruisercult.com
 
 ---
 
-### Diagram labels and controls
-
 - AIR INTAKE CONTROL LEVER
-  - OUTSIDE AIR
-  - RECIRCULATED AIR
-  - WINDSHIELD
-  - FLOOR
-  - FACE
 
-- FAN SPEED CONTROL LEVER
-  - OFF
-  - LO
-  - I
-  - II
-  - HI
-  - A/C (button)
-
-- Fan speed indications:
-  - OFF
-  - LOW SPEED
-  - LOWER MIDDLE SPEED
-  - HIGHER MIDDLE SPEED
-  - HIGH SPEED
+- OUTSIDE AIR
+- RECIRCULATED AIR
+- WINDSHIELD
+- FLOOR
+- FACE
 
 - AIR FLOW CONTROL LEVER
 
+- FAN SPEED CONTROL LEVER
+
+- OFF  LO  I  II  HI  A/C
+- A/C
+
 - TEMPERATURE CONTROL LEVER
-  - LOW
-  - HIGH
 
----
+- HIGH
+- LOW
 
-The functions of the controls are described as follows:
-1. (a) Controls and functions
-2. (b) Heating
-3. (c) Cooling
-4. (d) Ventilation
-5. (e) Windshield defogging and defrosting
-6. (f) Air flow selection
-7. (g) Operating tips
+- HIGH SPEED
+- HIGHER MIDDLE SPEED
+- LOWER MIDDLE SPEED
+- LOW SPEED
+- OFF
 
----
+72
 
-72  
-cruisercult.com  
+cruisercult.com
+
 10520101
 
-![Manual Page 72](../images/page_78.png)
+![Manual Page 72](../images/page-072.jpg)
 
 ---
 
 ## Page 73
 
-(a) Controls and functions
+# (a) Controls and functions
 
-The functions of the controls are described as follows:
-- (a) Controls and functions
-- (b) Heating
-- (c) Cooling
-- (d) Ventilation
-- (e) Windshield defogging and defrosting
-- (f) Air flow selection
-- (g) Operating tips
+The functions of the controls are described as follows:  
+(a) Controls and functions  
+(b) Heating  
+(c) Cooling  
+(d) Ventilation  
+(e) Windshield defogging and defrosting  
+(f) Air flow selection  
+(g) Operating tips
 
-[Diagram labels]
-- AIR FLOW CONTROL LEVER
-- TEMPERATURE CONTROL LEVER
-- FACE
-- LOW
-- 10520101
+---
 
-Controls and functions
+## Temperature control lever
 
-[TEMPERATURE CONTROL LEVER diagram]
-- HIGH
-- LOW
-- TEMPERATURE CONTROL LEVER
+![diagram]
 
 The temperature control lever is used to adjust the temperature of the delivered air.
 
 Move the lever toward the HIGH position for higher temperature and toward the LOW position for lower temperature.
 
-[AIR INTAKE CONTROL LEVER diagram]
-- AIR INTAKE CONTROL LEVER
-- OUTSIDE AIR
-- RECIRCULATED AIR
+Labels in diagram: HIGH — TEMPERATURE CONTROL LEVER — LOW
+
+---
+
+## Air intake control lever
+
+AIR INTAKE CONTROL LEVER
+
+OUTSIDE AIR ←→ RECIRCULATED AIR
 
 The air intake control lever is used to select intake air, either outside air or re-circulated air.
 
 With the lever in the OUTSIDE AIR position, the system will take fresh outside air into the unit. For recirculated air, move the lever to the RECIRCULATED AIR position.
 
+Panel labels (in diagram): OFF  LO  I  I  HI  A/C
+
+---
+
 cruisercult.com
 
 73
 
-![Manual Page 73](../images/page_79.png)
+![Manual Page 73](../images/page-073.jpg)
 
 ---
 
@@ -1204,51 +1048,52 @@ cruisercult.com
 
 # AIR FLOW CONTROL LEVER
 
-![diagram]
+The air flow control lever is used to select the air flow outlets air is delivered from.
 
-The air flow control lever is used to select the air flow outlets air is delivered from.  
-See “(f) Air flow selection” for detailed information.
+See "(f) Air flow selection" for detailed information.
 
----
+# FAN SPEED CONTROL LEVER
 
-## FAN SPEED CONTROL LEVER
-
-OFF  LO  I  II  HI  A/C
-
-HIGH SPEED  
-HIGHER MIDDLE SPEED  
+OFF  
+LOW SPEED  
 LOWER MIDDLE SPEED  
-LOW SPEED
+HIGHER MIDDLE SPEED  
+HIGH SPEED
 
 The fan speed control lever is used to turn on and off the fan and select the fan speed.
 
-The higher the fan speed setting is, the more amount of air is delivered. Moving the lever to the “OFF” position turns off the fan.
+The higher the fan speed setting is, the more amount of air is delivered. Moving the lever to the "OFF" position turns off the fan.
 
----
+# AIR CONDITIONER ON-OFF BUTTON
 
-## AIR CONDITIONER ON-OFF BUTTON
-
-A/C
+ON  
+OFF
 
 The air conditioner on-off button is used to turn on and off the air conditioner.
 
 With the button pressed in, the air conditioner turns on and operates. Pressing the button once again will turn the air conditioner off and improve fuel economy.
 
-On long uphill drives, the additional load of the air conditioner may cause engine overheating. Watch the engine temperature gauge carefully. If the gauge indicates overheating, turn the air conditioner off.
+On long uphill drives, the additional load of the air conditioner may cause engine over-heating. Watch the engine temperature gauge carefully. If the gauge indicates over-heating, turn the air conditioner off.
+
+74
+
+cruisercult.com
+
+![Manual Page 74](../images/page-074.jpg)
 
 ---
 
-# (b) Heating
+## Page 75
 
-AIR INTAKE CONTROL LEVER  
-OUTSIDE AIR  
-RECIRCULATED AIR
-
-OFF  LO  I  II  HI  A/C
-
-TEMPERATURE CONTROL LEVER
-
-NO HEAT ←──────────────→ FULL HEATING
+(b) Heating
+- AIR INTAKE CONTROL LEVER
+- OUTSIDE AIR
+- RECIRCULATED AIR
+- OFF LO I HI S A/C
+- A/C
+- NO HEAT
+- FULL HEATING
+- TEMPERATURE CONTROL LEVER
 
 1. Place the temperature control lever anywhere except the NO HEAT position.
 
@@ -1260,170 +1105,117 @@ If quick circulation of heated air is desired, move the lever to the RECIRCULATE
 
 For normal use, it is best to keep the lever in the OUTSIDE AIR position. Otherwise the windows will fog up easier.
 
----
-
-74
-
-cruisercult.com
-
-![Manual Page 74](../images/page_80.png)
-
----
-
-## Page 75
-
-# AIR CONDITIONER ON-OFF BUTTON
-
-- ON
-- OFF
-
-The air conditioner on-off button is used to turn on and off the air conditioner.
-
-With the button pressed in, the air conditioner turns on and operates. Pressing the button once again will turn the air conditioner off and improve fuel economy.
-
-On long uphill drives, the additional load of the air conditioner may cause engine overheating. Watch the engine temperature gauge carefully. If the gauge indicates overheating, turn the air conditioner off.
-
----
-
-## (b) Heating
-
-AIR INTAKE CONTROL LEVER  
-OUTSIDE AIR — RECIRCULATED AIR
-
-AIR FLOW CONTROL LEVER — FLOOR
-
-AIR CONDITIONER ON-OFF BUTTON
-
-FAN SPEED CONTROL LEVER
-
-TEMPERATURE CONTROL LEVER — FULL HEATING — NO HEAT
-
-1. Place the temperature control lever anywhere except the NO HEAT position.
-
-   When dehumidified heating is desired, place the lever between the FULL HEATING and middle positions.
-
-2. Move the air intake control lever to the OUTSIDE AIR position.
-
-   If quick circulation of heated air is desired, move the lever to the RECIRCULATED AIR position.
-
-   For normal use, it is best to keep the lever in the OUTSIDE AIR position. Otherwise the windows will fog up easier.
+- AIR FLOW CONTROL LEVER
+- FLOOR
+- "OFF"
+- AIR CONDITIONER ON-OFF BUTTON
+- FAN SPEED CONTROL LEVER
 
 3. Move the air flow control lever to the FLOOR position.
 
-   For detailed information on air flow control including other settings, see "(f) Air flow selection".
+For detailed information on air flow control including other settings, see "(f) Air flow selection".
 
 4. Move the fan speed control lever anywhere except the "OFF" position.
 
 5. If dehumidified heating is desired, press in the air conditioner on-off button.
 
----
-
-## (c) Cooling
-
-AIR INTAKE CONTROL LEVER  
-OUTSIDE AIR — RECIRCULATED AIR
-
-AIR FLOW CONTROL LEVER — FLOOR
-
-AIR CONDITIONER ON-OFF BUTTON
-
-FAN SPEED CONTROL LEVER
-
-FULL COOLING — TEMPERATURE CONTROL LEVER
+(c) Cooling
+- AIR INTAKE CONTROL LEVER
+- OUTSIDE AIR
+- RECIRCULATED AIR
+- OFF LO I HI S A/C
+- A/C
+- FULL COOLING
+- TEMPERATURE CONTROL LEVER
 
 1. Place the temperature control lever anywhere between the middle and FULL COOLING positions.
 
 2. Move the air intake control lever to the OUTSIDE AIR position.
 
-   If quick circulation of cooled air is desired, move the lever to the RECIRCULATED AIR position.
+If quick circulation of cooled air is desired, move the lever to the RECIRCULATED AIR position.
 
-   For normal use, it is best to keep the lever in the OUTSIDE AIR position.
+For normal use, it is best to keep the lever in the OUTSIDE AIR position.
 
-cruisercult.com
-
-75
-
-![Manual Page 75](../images/page_81.png)
+![Manual Page 75](../images/page-075.jpg)
 
 ---
 
 ## Page 76
 
-- AIR FLOW CONTROL LEVER
+# AIR FLOW CONTROL LEVER
 - FACE
-- AIR CONDITIONER ON-OFF BUTTON
-- "OFF"
-- FAN SPEED CONTROL LEVER
 
-3. Move the air flow control lever to the FACE position.
-For detailed information on air flow control including other settings, see "(f) Air flow selection".
-4. Move the fan speed control lever anywhere except the "OFF" position.
+OFF LO I II HI S A/C
+
+"A/C" (button)
+
+"OFF" AIR CONDITIONER ON-OFF BUTTON
+
+FAN SPEED CONTROL LEVER
+
+---
+
+3. Move the air flow control lever to the FACE position.  
+For detailed information on air flow control including other settings, see "(f) Air flow selection".  
+4. Move the fan speed control lever anywhere except the "OFF" position.  
 5. Press in the air conditioner on-off button.
 
 ---
 
-## (d) Ventilation
+(d) Ventilation
 
-- AIR INTAKE CONTROL LEVER
+AIR INTAKE CONTROL LEVER
+
 - OUTSIDE AIR
-- AIR FLOW CONTROL LEVER
+
+AIR FLOW CONTROL LEVER
+
 - FACE
-- OFF LO I H HI S A/C
-- "OFF"
-- AIR CONDITIONER ON-OFF BUTTON
-- TEMPERATURE CONTROL LEVER
-- FAN SPEED CONTROL LEVER
 
-1. Place the temperature control lever at the NO HEAT position.
-2. Move the air intake control lever to the OUTSIDE AIR position.
-3. Move the air flow control lever to the FACE position.
-For detailed information on air flow control including other settings, see "(f) Air flow selection".
-4. Move the fan speed control lever anywhere except the "OFF" position.
+OFF LO I II HI S A/C
+
+"OFF" AIR CONDITIONER ON-OFF BUTTON
+
+NO HEAT
+
+TEMPERATURE CONTROL LEVER
+
+FAN SPEED CONTROL LEVER
+
+1. Place the temperature control lever at the NO HEAT position.  
+2. Move the air intake control lever to the OUTSIDE AIR position.  
+3. Move the air flow control lever to the FACE position.  
+For detailed information on air flow control including other settings, see "(f) Air flow selection".  
+4. Move the fan speed control lever anywhere except the "OFF" position.  
 5. Leave the air conditioner on-off button out.
 
 ---
 
-## (e) Windshield defogging and defrosting
+(e) Windshield defogging and defrosting
 
-- AIR INTAKE CONTROL LEVER
+AIR INTAKE CONTROL LEVER
+
 - OUTSIDE AIR
-- AIR FLOW CONTROL LEVER
-- WINDSHIELD
-- OFF LO I H HI S A/C
-- "OFF"
-- AIR CONDITIONER ON-OFF BUTTON
-- TEMPERATURE CONTROL LEVER
-- FAN SPEED CONTROL LEVER
 
-To remove the interior fog on the windshield:
-1. Place the temperature control lever at any position.
-2. Move the air intake control lever to the OUTSIDE AIR position.
-3. Move the air flow control lever to the WINDSHIELD position.
-For detailed information on air flow control, see "(f) Air flow selection".
-4. Move the fan speed control lever anywhere except the "OFF" position.
+AIR FLOW CONTROL LEVER
+
+- WINDSHIELD
+
+OFF LO I II HI S A/C
+
+"OFF" AIR CONDITIONER ON-OFF BUTTON
+
+TEMPERATURE CONTROL LEVER
+
+FAN SPEED CONTROL LEVER
+
+To remove the interior fog on the windshield:  
+1. Place the temperature control lever at any position.  
+2. Move the air intake control lever to the OUTSIDE AIR position.  
+3. Move the air flow control lever to the WINDSHIELD position.  
+For detailed information on air flow control, see "(f) Air flow selection".  
+4. Move the fan speed control lever anywhere except the "OFF" position.  
 5. Press in the air conditioner on-off button.
-
----
-
-- AIR INTAKE CONTROL LEVER
-- OUTSIDE AIR
-- AIR FLOW CONTROL LEVER
-- WINDSHIELD
-- OFF LO I H HI S A/C
-- A/C
-- "HI"
-- FULL HEATING
-- AIR CONDITIONER ON-OFF BUTTON
-- FAN SPEED CONTROL LEVER
-- TEMPERATURE CONTROL LEVER
-
-To remove the frost or exterior fog on the windshield:
-1. Place the temperature control lever at the FULL HEATING position.
-2. Move the air intake control lever to the OUTSIDE AIR position.
-3. Move the air flow control lever to the WINDSHIELD position.
-For detailed information on air flow control, see "(f) Air flow selection".
-4. Move the fan speed control lever to the "HI" position.
-5. Leave the air conditioner on-off button out.
 
 ---
 
@@ -1431,78 +1223,56 @@ For detailed information on air flow control, see "(f) Air flow selection".
 
 cruisercult.com
 
-![Manual Page 76](../images/page_82.png)
+![Manual Page 76](../images/page-076.jpg)
 
 ---
 
 ## Page 77
 
-# (e) Windshield defogging and defrosting
+## (f) Air flow selection
 
 AIR INTAKE CONTROL LEVER  
 AIR FLOW CONTROL LEVER  
-OUTSIDE AIR  WINDSHIELD  
+OUTSIDE AIR  
+WINDSHIELD
 
-OFF  LO  I  HI S  A/C  
+"HI" FULL HEATING  
 AIR CONDITIONER ON-OFF BUTTON  
-TEMPERATURE CONTROL LEVER  
-FAN SPEED CONTROL LEVER
-
-To remove the interior fog on the windshield;
-1. Place the temperature control lever at any position.
-2. Move the air intake control lever to the OUTSIDE AIR position.
-3. Move the air flow control lever to the WINDSHIELD position.
-
-For detailed information on air flow control, see "(f) Air flow selection".
-
-4. Move the fan speed control lever anywhere except the "OFF" position.
-5. Press in the air conditioner on-off button.
-
-AIR INTAKE CONTROL LEVER  
-AIR FLOW CONTROL LEVER  
-OUTSIDE AIR  WINDSHIELD
-
-"HI"  FULL HEATING  
-FAN SPEED  AIR CONDITIONER ON-OFF BUTTON  
-CONTROL LEVER  TEMPERATURE CONTROL LEVER
+FAN SPEED CONTROL LEVER  
+TEMPERATURE CONTROL LEVER
 
 To remove the frost or exterior fog on the windshield;
-1. Place the temperature control lever at the FULL HEATING position.
-2. Move the air intake control lever to the OUTSIDE AIR position.
+
+1. Place the temperature control lever at the FULL HEATING position.  
+2. Move the air intake control lever to the OUTSIDE AIR position.  
 3. Move the air flow control lever to the WINDSHIELD position.
 
 For detailed information on air flow control, see "(f) Air flow selection".
 
-4. Move the fan speed control lever to the "HI" position.
+4. Move the fan speed control lever to the "HI" position.  
 5. Leave the air conditioner on-off button out.
 
-# (f) Air flow selection
-
-FACE
-
-1. FACE position  
+### 1. FACE position
 This position directs air flow to the faces.
 
-FLOOR
-
-2. FLOOR position  
+### 2. FLOOR position
 This position directs air flow mostly to the floor.
 
 cruisercult.com
 
 77
 
-![Manual Page 77](../images/page_83.png)
+![Manual Page 77](../images/page-077.jpg)
 
 ---
 
 ## Page 78
 
-# WINDSHIELD
+### WINDSHIELD
 
-![diagram]
+![WINDSHIELD]
 
-3. WINDSHIELD position
+### 3. WINDSHIELD position
 
 This position directs air flow mostly to the windshield and front side windows.
 
@@ -1510,7 +1280,7 @@ Do not use the WINDSHIELD position during cooling operation in extremely humid w
 
 ---
 
-## (g) Operating tips
+### (g) Operating tips
 
 - Be sure the air inlet grilles in front of the windshield are not blocked by leaves or other obstructions.
 - If air flow control is not satisfactory, check the dashboard vents. (See "Side vents" after "Rear heater controls".)
@@ -1518,27 +1288,11 @@ Do not use the WINDSHIELD position during cooling operation in extremely humid w
 - When driving on dusty roads, close all windows, set the air intake control lever in the OUTSIDE AIR position and the fan speed control lever anywhere except the "OFF" position.
 - If following another vehicle on a dusty road, or driving in windy and dusty conditions, it is recommended that the air intake control lever be temporarily set to the RECIRCULATED AIR position, which will close off the outside passage and prevent outside air and dust from entering the vehicle interior.
 
----
+78
 
-Page 78  
 cruisercult.com
 
----
-
-# Heater controls —
-
-- OUTSIDE AIR
-- AIR INTAKE CONTROL LEVER
-- FAN SPEED CONTROL LEVER
-
-Controls (diagram):
-- OFF
-- LOW SPEED
-- LOWER MIDDLE SPEED
-- HIGHER MIDDLE SPEED
-- HIGH SPEED
-
-![Manual Page 78](../images/page_84.png)
+![Manual Page 78](../images/page-078.jpg)
 
 ---
 
@@ -1546,53 +1300,59 @@ Controls (diagram):
 
 # Heater controls —
 
-- WINDSHIELD
-- OUTSIDE AIR
-- RECIRCULATED AIR
-- FLOOR
-- FACE
+OUTSIDE AIR  
+RECIRCULATED AIR  
+WINDSHIELD  
+FLOOR  
+FACE
 
-- AIR INTAKE CONTROL LEVER
-- AIR FLOW CONTROL LEVER
-- TEMPERATURE CONTROL LEVER
-- FAN SPEED CONTROL LEVER
+AIR INTAKE CONTROL LEVER
 
-- OFF  LO  I  II  HI  (fan symbol)
+OFF  LO  I  II  HI
 
-- OFF
-- HIGH SPEED
-- HIGHER MIDDLE SPEED
-- LOWER MIDDLE SPEED
-- LOW SPEED
+FAN SPEED CONTROL LEVER
 
-- FULL HEATING
-- NO HEAT
+OFF  
+LOW SPEED  
+LOWER MIDDLE SPEED  
+HIGHER MIDDLE SPEED  
+HIGH SPEED
 
-- 10530101
-- 79
-- cruisercult.com
+AIR FLOW CONTROL LEVER
 
-![Manual Page 79](../images/page_85.png)
+TEMPERATURE CONTROL LEVER
+
+FULL HEATING  
+NO HEAT
+
+10530101
+
+cruisercult.com
+
+79
+
+![Manual Page 79](../images/page-079.jpg)
 
 ---
 
 ## Page 80
 
-- The functions of the controls are described as follows:
-  - (a) Controls and functions
-  - (b) Heating
-  - (c) Ventilation
-  - (d) Windshield defogging and defrosting
-  - (e) Air flow selection
-  - (f) Operating tips
+# (a) Controls and functions
 
-(a) Controls and functions
+The functions of the controls are described as follows:
+
+- (a) Controls and functions
+- (b) Heating
+- (c) Ventilation
+- (d) Windshield defogging and defrosting
+- (e) Air flow selection
+- (f) Operating tips
 
 ---
 
-TEMPERATURE CONTROL LEVER
+## TEMPERATURE CONTROL LEVER
 
-FULL HEATING  NO HEAT
+FULL HEATING ←──────────────→ NO HEAT
 
 The temperature control lever is used to turn on and off the heater and adjust the temperature of the heated air.
 
@@ -1600,23 +1360,13 @@ Move the lever toward the FULL HEATING position for higher temperature. Moving t
 
 ---
 
-AIR INTAKE CONTROL LEVER
+## AIR INTAKE CONTROL LEVER
 
-OUTSIDE AIR  RECIRCULATED AIR
-
-OFF LO I IHI
+OUTSIDE AIR ←──────────────→ RECIRCULATED AIR
 
 The air intake control lever is used to select intake air, either outside air or recirculated air.
 
 With the lever in the OUTSIDE AIR position, the system will take fresh outside air into the unit. For recirculated air, move the lever to the RECIRCULATED AIR position.
-
----
-
-AIR FLOW CONTROL LEVER
-
-The air flow control lever is used to select the air flow outlets air is delivered from.
-
-See "(e) Air flow selection" for detailed information.
 
 ---
 
@@ -1624,39 +1374,30 @@ See "(e) Air flow selection" for detailed information.
 
 cruisercult.com
 
-![Manual Page 80](../images/page_86.png)
+![Manual Page 80](../images/page-080.jpg)
 
 ---
 
 ## Page 81
 
-# AIR INTAKE CONTROL LEVER
+## AIR FLOW CONTROL LEVER
 
-OUTSIDE AIR  RECIRCULATED AIR
+AIR FLOW CONTROL LEVER
 
-OFF  LO  I  I  H  S
-
-The air intake control lever is used to select intake air, either outside air or recirculated air.
-
-With the lever in the OUTSIDE AIR position, the system will take fresh outside air into the unit. For recirculated air, move the lever to the RECIRCULATED AIR position.
+The air flow control lever is used to select the air flow outlets air is delivered from.  
+See "(e) Air flow selection" for detailed information.
 
 ---
 
-# AIR FLOW CONTROL LEVER
-
-The air flow control lever is used to select the air flow outlets air is delivered from. See "(e) Air flow selection" for detailed information.
-
----
-
-# FAN SPEED CONTROL LEVER
-
-OFF  LO  I  I  H  S
-
+OFF LO I II HI  
 HIGH SPEED  
 HIGHER MIDDLE SPEED  
 LOWER MIDDLE SPEED  
 LOW SPEED  
-"OFF"
+"OFF"  
+FAN SPEED CONTROL LEVER
+
+## The fan speed control lever
 
 The fan speed control lever is used to turn on and off the fan and select the fan speed.
 
@@ -1664,13 +1405,15 @@ The higher the fan speed setting is, the more amount of air is delivered. Moving
 
 ---
 
-# (b) Heating
+(b) Heating
 
-AIR INTAKE CONTROL LEVER
+AIR INTAKE CONTROL LEVER  
+OUTSIDE AIR  
+RECIRCULATED AIR
 
-OUTSIDE AIR  RECIRCULATED AIR
+OFF LO I II HI
 
-OFF  LO  I  I  H  S
+NO HEAT
 
 TEMPERATURE CONTROL LEVER
 
@@ -1686,34 +1429,19 @@ cruisercult.com
 
 81
 
-![Manual Page 81](../images/page_87.png)
+![Manual Page 81](../images/page-081.jpg)
 
 ---
 
 ## Page 82
 
-### (c) Ventilation
-
-AIR INTAKE CONTROL LEVER  
-OUTSIDE AIR  
 AIR FLOW CONTROL LEVER  
-FACE
+FLOOR
 
-OFF LO I II HI S  
+"OFF"  LO I  I  HI S
+
 "OFF"  
-NO HEAT  
-TEMPERATURE CONTROL LEVER  
 FAN SPEED CONTROL LEVER
-
-1. Place the temperature control lever at the NO HEAT position.  
-2. Move the air intake control lever to the OUTSIDE AIR position.  
-3. Move the air flow control lever to the FACE position.
-
-For detailed information on air flow control including other settings, see "(e) Air flow selection".
-
-4. Move the fan speed control lever anywhere except the "OFF" position.
-
----
 
 3. Move the air flow control lever to the FLOOR position.
 
@@ -1723,109 +1451,106 @@ For detailed information on air flow control including other settings, see "(e) 
 
 ---
 
-### (d) Windshield defogging and defrosting
+(c) Ventilation
 
 AIR INTAKE CONTROL LEVER  
-OUTSIDE AIR  
-AIR FLOW CONTROL LEVER  
-WINDSHIELD
+AIR FLOW CONTROL LEVER
 
-OFF LO I II HI S  
-"HI"  
-FULL HEATING  
+OUTSIDE AIR                                   FACE
+
+"OFF"  LO I  I  HI S
+
+"OFF"  
+TEMPERATURE CONTROL LEVER      NO HEAT  
+FAN SPEED CONTROL LEVER
+
+1. Place the temperature control lever at the NO HEAT position.
+
+2. Move the air intake control lever to the OUTSIDE AIR position.
+
+3. Move the air flow control lever to the FACE position.
+
+For detailed information on air flow control including other settings, see "(e) Air flow selection".
+
+4. Move the fan speed control lever anywhere except the "OFF" position.
+
+---
+
+(d) Windshield defogging and defrosting
+
+AIR INTAKE CONTROL LEVER  
+AIR FLOW CONTROL LEVER
+
+OUTSIDE AIR                                   WINDSHIELD
+
+"OFF"  LO I  I  HI S
+
+"HI"    FULL HEATING  
 TEMPERATURE CONTROL LEVER  
 FAN SPEED CONTROL LEVER
 
-1. Place the temperature control lever at the FULL HEATING position.  
-2. Move the air intake control lever to the OUTSIDE AIR position.  
+1. Place the temperature control lever at the FULL HEATING position.
+
+2. Move the air intake control lever to the OUTSIDE AIR position.
+
 3. Move the air flow control lever to the WINDSHIELD position.
 
 For detailed information on air flow control, see "(e) Air flow selection".
 
 4. Move the fan speed control lever to the "HI" position.
 
----
+82
 
-### (e) Air flow selection
+cruisercult.com
 
-FACE
-
-1. FACE position
-
-This position directs air flow to the faces.
-
-![Manual Page 82](../images/page_88.png)
+![Manual Page 82](../images/page-082.jpg)
 
 ---
 
 ## Page 83
 
-(d) Windshield defogging and defrosting
+# (e) Air flow selection
 
-AIR INTAKE CONTROL LEVER
-OUTSIDE AIR
+## FACE
+1. FACE position  
+This position directs air flow to the faces.  
+10520111
 
-AIR FLOW CONTROL LEVER
-WINDSHIELD
+## FLOOR
+2. FLOOR position  
+This position directs air flow mostly to the floor.  
+10520112
 
-OFF  LO  I  HI
-
-"HI"  FULL HEATING
-TEMPERATURE CONTROL LEVER
-
-FAN SPEED CONTROL LEVER
-
-1. Place the temperature control lever at the FULL HEATING position.
-2. Move the air intake control lever to the OUTSIDE AIR position.
-3. Move the air flow control lever to the WINDSHIELD position.
-   For detailed information on air flow control, see "(e) Air flow selection".
-4. Move the fan speed control lever to the "HI" position.
-
-(e) Air flow selection
-
-1. FACE position
-This position directs air flow to the faces.
-
-2. FLOOR position
-This position directs air flow mostly to the floor.
-
-3. WINDSHIELD position
-This position directs air flow mostly to the windshield and front side windows.
+## WINDSHIELD
+3. WINDSHIELD position  
+This position directs air flow mostly to the windshield and front side windows.  
+10520113
 
 cruisercult.com
 
 83
 
-![Manual Page 83](../images/page_89.png)
+![Manual Page 83](../images/page-083.jpg)
 
 ---
 
 ## Page 84
 
-### (f) Operating tips
+# (f) Operating tips
 
 - Be sure the air inlet grilles in front of the windshield are not blocked by leaves or other obstructions.
+
 - If air flow control is not satisfactory, check the dashboard vents. (See "Side vents" after "Rear heater controls".)
+
 - When driving on dusty roads, close all windows, set the air intake control lever in the OUTSIDE AIR position and the fan speed control lever anywhere except the "OFF" position.
+
 - If following another vehicle on a dusty road, or driving in windy and dusty conditions, it is recommended that the air intake control lever be temporarily set to the RECIRCULATED AIR position, which will close off the outside passage and prevent outside air and dust from entering the vehicle interior.
 
 84
 
 cruisercult.com
 
----
-
-## Rear heater controls
-
-- FAN SPEED CONTROL SWITCH
-  - ON (HIGH SPEED)
-  - ON (LOW SPEED)
-
-### HEATING
-1. Place the temperature control lever any where except the NO HEAT position.  
-2. Push the fan speed control switch on either side.
-
-![Manual Page 84](../images/page_90.png)
+![Manual Page 84](../images/page-084.jpg)
 
 ---
 
@@ -1833,29 +1558,25 @@ cruisercult.com
 
 # Rear heater controls
 
-**FAN SPEED CONTROL SWITCH**  
-ON (HIGH SPEED)  
-ON (LOW SPEED)
+## FAN SPEED CONTROL SWITCH
+- ON (HIGH SPEED)
+- ON (LOW SPEED)
 
----
+## FULL HEATING
+- NO HEAT
+- TEMPERATURE CONTROL LEVER
 
 ## HEATING
-1. Place the temperature control lever anywhere except the NO HEAT position.  
+1. Place the temperature control lever any where except the NO HEAT position.  
 2. Push the fan speed control switch on either side.
 
----
-
-FULL HEATING  
-NO HEAT  
-TEMPERATURE CONTROL LEVER
-
-1G535102
+10535102
 
 cruisercult.com
 
 85
 
-![Manual Page 85](../images/page_91.png)
+![Manual Page 85](../images/page-085.jpg)
 
 ---
 
@@ -1863,21 +1584,21 @@ cruisercult.com
 
 # Side vents
 
-OPEN  CLOSE
-
-10540A01
+- OPEN
+- CLOSE
+- CLOSED
+- 10540A01
 
 The side vents may be opened or closed as shown.
 
-When defrosting, open and adjust the side vents to direct the air flow to the side windows.
-
-Part 1 C
+When defrosting, open and adjust the side vents to direct the air flow to the side win-
+dows.
 
 86
 
 cruisercult.com
 
-![Manual Page 86](../images/page_92.png)
+![Manual Page 86](../images/page-086.jpg)
 
 ---
 
